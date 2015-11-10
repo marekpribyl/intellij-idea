@@ -21,8 +21,8 @@
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="exec" type="PLAIN_TEXT" />
       <mapping ext=" sql" type="SQL" />
-      <mapping pattern="temp" type="XML" />
       <mapping pattern="kategorie" type="XML" />
+      <mapping pattern="temp" type="XML" />
     </extensionMap>
   </component>
 </application>
