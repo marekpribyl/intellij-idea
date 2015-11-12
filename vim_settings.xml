@@ -3,6 +3,9 @@
     <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/projects/4FI/src/DEBTS/debts/launcher/src/main/java/server/EmbeddedJetty.java" timestamp="1447342350962">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/4FI/src/LOC/line-of-credit/tests/test-mocks/src/main/java/com/ofg/loans/mocks/impl/MockBankStatementParser.java" timestamp="1447168226304">
         <mark key="[" line="20" column="23" />
         <mark key="]" line="19" column="22" />
@@ -10,15 +13,24 @@
         <mark key="." line="19" column="22" />
       </file>
     </filemarks>
-    <jumps />
-    <registers />
+    <jumps>
+      <jump line="173" column="0" filename="$USER_HOME$/projects/4FI/src/DEBTS/debts/launcher/src/main/java/server/EmbeddedJetty.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/4FI/src/DEBTS/debts/launcher/src/main/java/server/EmbeddedJetty.java" />
+    </jumps>
+    <registers>
+      <register name=":" type="4">
+        <text>1</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search />
-      <history-cmd />
+      <history-cmd>
+        <entry>1</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
