@@ -72,4 +72,20 @@
       <gwt-sdk url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.gwt/gwt-dev/2.7.0" />
     </gwt-sdk-list>
   </component>
+  <component name="RecentTaskRepositories">
+    <JIRA shared="false" url="https://jira.4finance.net">
+      <option name="apiType" value="REST_2_0" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <password>dfd9dfdedfebdfcedff8dfcbdf98dfcb</password>
+      <option name="jiraVersion" value="6.3.11" />
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="searchQuery" value="resolution = Unresolved order by updated" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="true" />
+      <option name="useProxy" value="false" />
+      <username>Marek.Pribyl</username>
+    </JIRA>
+  </component>
 </application>
