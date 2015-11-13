@@ -18,6 +18,12 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/4FI/src/DEBTS/debts/launcher/src/main/java/server/EmbeddedJetty.java" />
     </jumps>
     <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBjb21taXNzaW9uLnNldEludm9pY2VkQW1vdW50KGNhbGN1bGF0ZUNvbW1pc3Npb24obG9hbkFncmVlbWVudCkpOwo=</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb21taXNzaW9uLnNldEludm9pY2VkQW1vdW50KGNhbGN1bGF0ZUNvbW1pc3Npb24obG9hbkFncmVlbWVudCkpOwo=</text>
+      </register>
       <register name=":" type="4">
         <text>1</text>
       </register>
