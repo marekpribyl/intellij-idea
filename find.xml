@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'line-of-credit-v2'" />
-    <option name="defaultScopeName" value="Project 'line-of-credit-v2'" />
-    <option name="SEARCH_SCOPE" value="Project 'line-of-credit-v2'" />
+    <option name="customScope" value="File '/home/marek/projects/4FI/src/LOANS/loans/modules/web/src/main/webapp/common/lib/backbone-0.9.2.min.js'" />
+    <option name="defaultScopeName" value="File '/home/marek/projects/4FI/src/LOANS/loans/modules/web/src/main/webapp/common/lib/backbone-0.9.2.min.js'" />
+    <option name="SEARCH_SCOPE" value="File '/home/marek/projects/4FI/src/LOANS/loans/modules/web/src/main/webapp/common/lib/backbone-0.9.2.min.js'" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
