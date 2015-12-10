@@ -10,11 +10,6 @@
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Show.Current.Revision" is_action="true" action_type="1" position="26">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <action id="Show.Current.Revision" />
     <action id="VimPluginToggle" icon="/usr/share/icons/Mint-X/apps/16/vim.png" />
   </component>
