@@ -13,16 +13,16 @@
       <mapping pattern="Template Email - sandbox" type="HTML" />
       <mapping pattern="Template Email test" type="HTML" />
       <mapping pattern="csw-b2c-cz" type="JSON" />
-      <mapping pattern="out" type="PLAIN_TEXT" />
       <mapping pattern="NOTES" type="PLAIN_TEXT" />
-      <mapping pattern="PhoneNumberAlternateFormatsProto_7" type="PLAIN_TEXT" />
-      <mapping pattern="subse_client_credential" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping pattern="PhoneNumberAlternateFormatsProto_7" type="PLAIN_TEXT" />
+      <mapping pattern="out" type="PLAIN_TEXT" />
+      <mapping pattern="subse_client_credential" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="exec" type="PLAIN_TEXT" />
       <mapping ext=" sql" type="SQL" />
-      <mapping pattern="kategorie" type="XML" />
       <mapping pattern="temp" type="XML" />
+      <mapping pattern="kategorie" type="XML" />
     </extensionMap>
   </component>
 </application>
