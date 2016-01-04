@@ -3,6 +3,9 @@
     <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/projects/4FI/src/LOANS/loans/modules/domain/src/main/java/com/ofg/loans/domain/model/client/BaseClientRepositoryBean.java" timestamp="1451921390378">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/4FI/src/DEBTS/debts/launcher/src/main/java/server/EmbeddedJetty.java" timestamp="1447342350962">
         <mark key="'" line="0" column="0" />
       </file>
@@ -21,6 +24,13 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/4FI/src/DEBTS/debts/launcher/src/main/java/server/EmbeddedJetty.java" />
       <jump line="78" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.16.6/2d4bf466aacc3b9c4218d4ac0f63e4fd69fea5bf/lombok-1.16.6-sources.jar!/lombok/Setter.java" />
       <jump line="0" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.16.6/2d4bf466aacc3b9c4218d4ac0f63e4fd69fea5bf/lombok-1.16.6-sources.jar!/lombok/Setter.java" />
+      <jump line="239" column="0" filename="$USER_HOME$/projects/4FI/src/LOANS/loans/modules/domain/src/main/java/com/ofg/loans/domain/model/client/BaseClientRepositoryBean.java" />
+      <jump line="307" column="61" filename="$USER_HOME$/projects/4FI/src/LOANS/loans/modules/domain/src/main/java/com/ofg/loans/domain/model/client/BaseClientRepositoryBean.java" />
+      <jump line="291" column="91" filename="$USER_HOME$/projects/4FI/src/LOANS/loans/modules/domain/src/main/java/com/ofg/loans/domain/model/client/BaseClientRepositoryBean.java" />
+      <jump line="232" column="60" filename="$USER_HOME$/projects/4FI/src/LOANS/loans/modules/domain/src/main/java/com/ofg/loans/domain/model/client/BaseClientRepositoryBean.java" />
+      <jump line="44" column="16" filename="$USER_HOME$/projects/4FI/src/LOANS/loans/modules/domain/src/main/java/com/ofg/loans/domain/model/client/BaseClientRepositoryBean.java" />
+      <jump line="360" column="4" filename="$USER_HOME$/projects/4FI/src/LOANS/loans/modules/domain/src/main/java/com/ofg/loans/domain/model/client/BaseClientRepositoryBean.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/4FI/src/LOANS/loans/modules/domain/src/main/java/com/ofg/loans/domain/model/client/BaseClientRepositoryBean.java" />
     </jumps>
     <registers>
       <register name="0" type="2">
@@ -32,13 +42,21 @@
       <register name=":" type="4">
         <text>$</text>
       </register>
+      <register name="/" type="4">
+        <text>class</text>
+      </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>class</last-search>
+      <last-offset />
+      <last-pattern>class</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>class</entry>
+      </history-search>
       <history-cmd>
         <entry>1</entry>
         <entry>$</entry>
