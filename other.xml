@@ -98,7 +98,7 @@
     <JIRA shared="false" url="https://jira.4finance.net">
       <option name="apiType" value="REST_2_0" />
       <commitMessageFormat>{id} {summary}</commitMessageFormat>
-      <password>dfd9dfdedfebdfcedff8dfcbdf98dfcb</password>
+      <password>dfd8dfdfdfccdfdfdfdadff8dfffdf99</password>
       <option name="jiraVersion" value="6.3.11" />
       <option name="loginAnonymously" value="false" />
       <option name="preferredCloseTaskState" />
