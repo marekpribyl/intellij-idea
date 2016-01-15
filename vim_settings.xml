@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/projects/4FI/src/LOANS/loans/modules/domain/src/main/java/com/ofg/loans/domain/model/client/BaseClientRepositoryBean.java" timestamp="1451921390378">
