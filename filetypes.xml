@@ -7,7 +7,7 @@
       <mapping ext="tagx" type="XML" />
     </extensionMap>
   </component>
-  <component name="FileTypeManager" version="16">
+  <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping pattern="Template Email - sandbox" type="HTML" />
@@ -15,6 +15,7 @@
       <mapping pattern="csw-b2c-cz" type="JSON" />
       <mapping pattern="NOTES" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping pattern=".empty" type="PLAIN_TEXT" />
       <mapping pattern="PhoneNumberAlternateFormatsProto_7" type="PLAIN_TEXT" />
       <mapping pattern="out" type="PLAIN_TEXT" />
       <mapping pattern="subse_client_credential" type="PLAIN_TEXT" />
