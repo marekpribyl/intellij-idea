@@ -4,6 +4,7 @@
   <option name="FORMATTER_TAGS_ENABLED" value="true" />
   <GroovyCodeStyleSettings>
     <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
+    <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
   </GroovyCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
