@@ -29,7 +29,6 @@
         <option name="FOREGROUND" value="7f0000" />
       </value>
     </option>
-    <option name="CONSOLE_RANGE_TO_EXECUTE" baseAttributes="INJECTED_LANGUAGE_FRAGMENT" />
     <option name="CONSOLE_USER_INPUT">
       <value>
         <option name="FOREGROUND" value="7f00" />
