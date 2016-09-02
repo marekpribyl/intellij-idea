@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/projects/4FI/src/CB/creditb/creditb-lv/src/test/java/integration/com/ofg/creditb/lv/provider/LvProviderTest.java" timestamp="1464273218344">
