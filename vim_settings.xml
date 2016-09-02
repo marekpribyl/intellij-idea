@@ -32,6 +32,9 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/4FI/src/LOC2/line-of-credit/modules/domain/src/main/java/com/ofg/loans/infrastructure/spring/TransactionWrapperBean.java" timestamp="1472807223451">
+        <mark key="[" line="23" column="1" />
+      </file>
       <file name="$USER_HOME$/projects/4FI/src/LOC/line-of-credit/tests/test-mocks/src/main/java/com/ofg/loans/mocks/impl/MockBankStatementParser.java" timestamp="1447168226304">
         <mark key="[" line="20" column="23" />
         <mark key="]" line="19" column="22" />
