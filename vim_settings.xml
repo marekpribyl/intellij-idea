@@ -3,6 +3,12 @@
     <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/projects/4FI/src/LOC2/line-of-credit/modules/deploy-core/src/main/resources/core/core.updates-1.50.xml" timestamp="1479284080469">
+        <mark key="[" line="6363" column="9" />
+        <mark key="]" line="6363" column="10" />
+        <mark key="^" line="6363" column="10" />
+        <mark key="." line="6363" column="10" />
+      </file>
       <file name="$USER_HOME$/projects/4FI/src/CB/creditb/creditb-lv/src/test/java/integration/com/ofg/creditb/lv/provider/LvProviderTest.java" timestamp="1464273218344">
         <mark key="[" line="53" column="43" />
         <mark key="]" line="53" column="43" />
@@ -97,7 +103,7 @@
         <text />
       </register>
       <register name=":" type="4">
-        <text>%s/&quot;idChecklists.*\],//g</text>
+        <text>$</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -122,13 +128,13 @@
         <entry>&quot;idChecklists.*\],</entry>
       </history-search>
       <history-cmd>
-        <entry>$</entry>
         <entry>%s/,/,\n/r</entry>
         <entry>%s/,/,\r/d</entry>
         <entry>%s/,/,\n/d</entry>
         <entry>%s/,/,\r/g</entry>
         <entry>1</entry>
         <entry>%s/&quot;idChecklists.*\],//g</entry>
+        <entry>$</entry>
       </history-cmd>
       <history-expr />
       <history-input />
