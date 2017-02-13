@@ -18,6 +18,7 @@
       <mask>*.less</mask>
       <mask>*.xml</mask>
       <mask>*.java</mask>
+      <mask>*.gradle</mask>
     </recentFileMasks>
   </component>
 </application>
