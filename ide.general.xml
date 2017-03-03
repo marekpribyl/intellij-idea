@@ -10,7 +10,6 @@
     <entry key="ide.firstStartup" value="false" />
     <entry key="ide.tooltip.initialDelay" value="695" />
     <entry key="ide.max.recent.projects" value="10" />
-    <entry key="editor.distraction.free.mode" value="true" />
     <entry key="debugger.watches.in.variables" value="false" />
   </component>
 </application>
