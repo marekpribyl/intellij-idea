@@ -26,9 +26,13 @@
           <option name="url" value="http://Marek.Pribyl@stash.4finance.net/scm/loans/loans.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/marekpribyl/dashboard-demo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/projects/4FI/src/LOANS" />
+    <option name="cloneParentDir" value="$USER_HOME$/projects" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="/tmp" />
