@@ -9,16 +9,6 @@
       <file name="$USER_HOME$/projects/4FI/src/DEBTS/debts/launcher/src/main/java/server/EmbeddedJetty.java" timestamp="1447342350962">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_45" timestamp="1472807166999">
-        <mark key="'" line="7" column="14" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_10" timestamp="1460729790668">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="0" column="837" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/4FI/src/LOC2/line-of-credit/modules/domain/src/test/groovy/com/ofg/loans/domain/model/payment/impl/processors/IdentificationPaymentHelperSpec.groovy" timestamp="1475829390594">
         <mark key="[" line="84" column="48" />
         <mark key="]" line="84" column="48" />
@@ -27,6 +17,9 @@
       </file>
       <file name="$USER_HOME$/projects/4FI/src/LOC2/line-of-credit/modules/domain/src/main/java/com/ofg/loans/domain/loc/model/identification/DefaultClientIdentificationProcessor.java" timestamp="1482483646293">
         <mark key="'" line="42" column="12" />
+      </file>
+      <file name="$USER_HOME$/projects/4FI/src/LOC2/line-of-credit/modules/domain/src/main/java/com/ofg/loans/domain/loc/model/Transactions.java" timestamp="1491901723036">
+        <mark key="[" line="209" column="62" />
       </file>
       <file name="$USER_HOME$/projects/4FI/src/LOC2/line-of-credit/modules/deploy-core/src/main/resources/core/core.updates-1.50.xml" timestamp="1479284080469">
         <mark key="[" line="6363" column="9" />
@@ -47,11 +40,21 @@
       <file name="$USER_HOME$/projects/4FI/src/LOC2/line-of-credit/modules/domain/src/test/java/com/ofg/loans/domain/model/payment/PaymentDistributionFixture.java" timestamp="1475829185644">
         <mark key="[" line="45" column="40" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_45" timestamp="1472807166999">
+        <mark key="'" line="7" column="14" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.16.6/2d4bf466aacc3b9c4218d4ac0f63e4fd69fea5bf/lombok-1.16.6-sources.jar!/lombok/Setter.java" timestamp="1448448954640">
         <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/4FI/src/LOC2/line-of-credit/modules/domain/src/main/java/com/ofg/loans/infrastructure/spring/TransactionWrapperBean.java" timestamp="1472807223451">
         <mark key="[" line="23" column="1" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_10" timestamp="1460729790668">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="0" column="837" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/projects/4FI/src/LOC/line-of-credit/tests/test-mocks/src/main/java/com/ofg/loans/mocks/impl/MockBankStatementParser.java" timestamp="1447168226304">
         <mark key="[" line="20" column="23" />
