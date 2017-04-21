@@ -1,9 +1,7 @@
 <application>
   <component name="RemoteServers">
     <remote-server name="Docker" type="docker">
-      <configuration email="">
-        <option name="apiUrl" value="http://127.0.0.1:2376" />
-      </configuration>
+      <configuration email="" />
     </remote-server>
   </component>
 </application>
