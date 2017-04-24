@@ -1,6 +1,0 @@
-<application>
-  <component name="HttpConfigurable">
-    <option name="PROXY_HOST" value="superproxy.tmdev" />
-    <option name="PROXY_PORT" value="3128" />
-  </component>
-</application>
