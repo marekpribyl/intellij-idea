@@ -99,7 +99,6 @@
                       <option name="grepExpression" value=".*INFO.*" />
                       <option name="highlightOnlyMatchingText" value="true" />
                       <option name="id" value="109a141c-7e03-40f7-95ee-0c837d607f2f" />
-                      <option name="inputFilter" value="true" />
                       <option name="operationOnMatch" value="CONTINUE_MATCHING" />
                       <option name="style">
                         <GrepStyle>
