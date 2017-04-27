@@ -14,6 +14,7 @@
       <mapping pattern="Template Email test" type="HTML" />
       <mapping pattern="csw-b2c-cz" type="JSON" />
       <mapping pattern="NOTES" type="PLAIN_TEXT" />
+      <mapping pattern="MANIFEST" type="PLAIN_TEXT" />
       <mapping pattern="services" type="PLAIN_TEXT" />
       <mapping pattern=".empty" type="PLAIN_TEXT" />
       <mapping pattern="PhoneNumberAlternateFormatsProto_7" type="PLAIN_TEXT" />
