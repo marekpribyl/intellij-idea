@@ -15,10 +15,18 @@
       <mask>*.mxm</mask>
       <mask>*.mx</mask>
       <mask>*.m</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
-      <mask>*.ja</mask>
       <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
+      <mask>*.gradle</mask>
+      <mask>*.gradl</mask>
+      <mask>*.grad</mask>
+      <mask>*.gra</mask>
+      <mask>*.gr</mask>
+      <mask>*.g</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>
