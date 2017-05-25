@@ -12,7 +12,7 @@
     <entry key="ide.tooltip.initialDelay" value="695" />
     <entry key="ide.max.recent.projects" value="20" />
     <entry key="debugger.watches.in.variables" value="false" />
-    <entry key="editor.distraction.free.mode" value="true" />
     <entry key="SBT.system.in.process" value="true" />
+    <entry key="editor.distraction.free.mode" value="true" />
   </component>
 </application>
