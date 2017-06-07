@@ -53,6 +53,7 @@
                     <GrepExpressionItem>
                       <option name="grepExpression" value=".*WARN.*" />
                       <option name="id" value="cbb3ba6e-6001-4c0a-b8f0-f0feac5448b8" />
+                      <option name="inputFilter" value="true" />
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">
@@ -68,6 +69,7 @@
                     <GrepExpressionItem>
                       <option name="grepExpression" value=".*DEBUG.*" />
                       <option name="id" value="d88ff9b6-16ae-4cc0-bbb5-226564fc7e5f" />
+                      <option name="inputFilter" value="true" />
                       <option name="style">
                         <GrepStyle>
                           <option name="foregroundColor">
