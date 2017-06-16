@@ -3,15 +3,10 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.gradle" />
     <recentFileMasks>
-      <mask>*.mxm</mask>
       <mask>*.mx</mask>
       <mask>*.m</mask>
-      <mask>*.gradle</mask>
-      <mask>*.gradl</mask>
-      <mask>*.grad</mask>
-      <mask>*.gra</mask>
-      <mask>*.gr</mask>
       <mask>j</mask>
       <mask>ja</mask>
       <mask>jav</mask>
@@ -20,8 +15,6 @@
       <mask>*.jav</mask>
       <mask>*.ja</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*.g</mask>
       <mask>*.go</mask>
       <mask>*.goo</mask>
       <mask>*.goov</mask>
@@ -30,10 +23,18 @@
       <mask>*oovy</mask>
       <mask>*vy</mask>
       <mask>*y</mask>
-      <mask>*</mask>
-      <mask>*Sp</mask>
-      <mask>*Spe</mask>
       <mask>*Spec</mask>
+      <mask>*Spe</mask>
+      <mask>*Sp</mask>
+      <mask>*S</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.g</mask>
+      <mask>*.gr</mask>
+      <mask>*.gra</mask>
+      <mask>*.grad</mask>
+      <mask>*.gradl</mask>
+      <mask>*.gradle</mask>
     </recentFileMasks>
   </component>
 </application>
