@@ -13,6 +13,8 @@
       <mapping pattern="Template Email - sandbox" type="HTML" />
       <mapping pattern="Template Email test" type="HTML" />
       <mapping pattern="csw-b2c-cz" type="JSON" />
+      <mapping ext="notification" type="JSON" />
+      <mapping ext="email" type="JSON" />
       <mapping pattern="PhoneNumberAlternateFormatsProto_7" type="PLAIN_TEXT" />
       <mapping pattern="NOTES" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
