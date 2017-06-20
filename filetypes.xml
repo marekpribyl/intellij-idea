@@ -15,6 +15,8 @@
       <mapping pattern="csw-b2c-cz" type="JSON" />
       <mapping ext="notification" type="JSON" />
       <mapping ext="email" type="JSON" />
+      <mapping ext="cms_email" type="JSON" />
+      <mapping ext="cms_notification" type="JSON" />
       <mapping pattern="PhoneNumberAlternateFormatsProto_7" type="PLAIN_TEXT" />
       <mapping pattern="NOTES" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
