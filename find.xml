@@ -5,14 +5,8 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.css" />
     <recentFileMasks>
-      <mask>*.mx</mask>
-      <mask>*.m</mask>
-      <mask>j</mask>
-      <mask>ja</mask>
-      <mask>jav</mask>
-      <mask>java</mask>
-      <mask>*.java</mask>
       <mask>*.jav</mask>
       <mask>*.ja</mask>
       <mask>*.j</mask>
@@ -29,13 +23,20 @@
       <mask>*Sp</mask>
       <mask>*S</mask>
       <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.g</mask>
       <mask>*.gr</mask>
       <mask>*.gra</mask>
       <mask>*.grad</mask>
       <mask>*.gradl</mask>
       <mask>*.gradle</mask>
+      <mask>*.le</mask>
+      <mask>*.les</mask>
+      <mask>*.less</mask>
+      <mask>*.l</mask>
+      <mask>*.</mask>
+      <mask>*.c</mask>
+      <mask>*.cs</mask>
+      <mask>*.css</mask>
     </recentFileMasks>
   </component>
 </application>
