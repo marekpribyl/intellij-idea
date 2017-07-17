@@ -37,7 +37,7 @@
                         <GrepStyle>
                           <option name="backgroundColor">
                             <GrepColor>
-                              <option name="color" value="-6334643" />
+                              <option name="color" value="-157278" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
@@ -57,12 +57,7 @@
                         <GrepStyle>
                           <option name="backgroundColor">
                             <GrepColor>
-                              <option name="color" value="-7828895" />
-                              <option name="enabled" value="true" />
-                            </GrepColor>
-                          </option>
-                          <option name="foregroundColor">
-                            <GrepColor>
+                              <option name="color" value="-6637363" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
@@ -86,6 +81,7 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*TRACE.*" />
                       <option name="id" value="89e04f45-da05-4b76-82a6-95988073bc37" />
                       <option name="style">
@@ -102,17 +98,15 @@
                     <GrepExpressionItem>
                       <option name="continueMatching" value="true" />
                       <option name="enabled" value="false" />
-                      <option name="grepExpression" value=".*INFO.*" />
+                      <option name="grepExpression" value="^.*INFO.*$" />
                       <option name="highlightOnlyMatchingText" value="true" />
                       <option name="id" value="109a141c-7e03-40f7-95ee-0c837d607f2f" />
-                      <option name="inputFilter" value="true" />
                       <option name="operationOnMatch" value="CONTINUE_MATCHING" />
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">
                             <GrepColor>
                               <option name="color" value="-16742007" />
-                              <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
                           <option name="id" value="88746486-2476-4f23-a3e8-1bf39653ec00" />
@@ -127,11 +121,9 @@
                 <option name="grepExpressionItems">
                   <list>
                     <GrepExpressionItem>
-                      <option name="continueMatching" value="true" />
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value="cz.stigma" />
-                      <option name="highlightOnlyMatchingText" value="true" />
                       <option name="id" value="6c48d50d-e747-44fc-9b38-fbc144fe48c3" />
-                      <option name="operationOnMatch" value="CONTINUE_MATCHING" />
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">
@@ -151,6 +143,7 @@
             </list>
           </option>
           <option name="id" value="1447929074077" />
+          <option name="maxProcessingTime" value="2000" />
         </Profile>
       </list>
     </option>
