@@ -50,9 +50,13 @@
           <option name="url" value="https://Marek.Pribyl@stash.4finance.net/scm/ff/notification-service.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/spring-cloud/spring-cloud-contract.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/projects/4FI/src/FF" />
+    <option name="cloneParentDir" value="$USER_HOME$/projects" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/projects/4FI/src/LOC2/line-of-credit" />
