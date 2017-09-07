@@ -6,15 +6,6 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
     <recentFileMasks>
-      <mask>*.jav</mask>
-      <mask>*.ja</mask>
-      <mask>*.j</mask>
-      <mask>*.go</mask>
-      <mask>*.goo</mask>
-      <mask>*.goov</mask>
-      <mask>*.goovy</mask>
-      <mask>*goovy</mask>
-      <mask>*oovy</mask>
       <mask>*vy</mask>
       <mask>*y</mask>
       <mask>*Spec</mask>
@@ -32,10 +23,19 @@
       <mask>*.les</mask>
       <mask>*.less</mask>
       <mask>*.l</mask>
-      <mask>*.</mask>
-      <mask>*.c</mask>
-      <mask>*.cs</mask>
       <mask>*.css</mask>
+      <mask>*.cs</mask>
+      <mask>*.c</mask>
+      <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
+      <mask>*.sql</mask>
+      <mask>*.sq</mask>
+      <mask>*.s</mask>
+      <mask>*.</mask>
+      <mask>*.xm</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
