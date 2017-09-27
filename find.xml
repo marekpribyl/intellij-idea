@@ -2,21 +2,41 @@
   <component name="FindSettings">
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="showResultsInSeparateView" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
+    <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
     <recentFileMasks>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
+      <mask>*S</mask>
+      <mask>*</mask>
+      <mask>*.g</mask>
+      <mask>*.gr</mask>
+      <mask>*.gra</mask>
+      <mask>*.grad</mask>
+      <mask>*.gradl</mask>
+      <mask>*.gradle</mask>
       <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.class</mask>
-      <mask>*.java</mask>
-      <mask>*.properties</mask>
+      <mask>*.cs</mask>
+      <mask>*.c</mask>
+      <mask>*.sql</mask>
+      <mask>*.sq</mask>
+      <mask>*.s</mask>
       <mask>*.xml</mask>
-      <mask>*.wsdl, *.xsd</mask>
-      <mask>*.wsdl, *.xsd, *.xml</mask>
-      <mask>*.less, *.css</mask>
+      <mask>*.xm</mask>
+      <mask>*.x</mask>
+      <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
+      <mask>*.html</mask>
+      <mask>*.htm</mask>
+      <mask>*.ht</mask>
+      <mask>*.h</mask>
+      <mask>*.</mask>
+      <mask>*.l</mask>
+      <mask>*.le</mask>
+      <mask>*.les</mask>
       <mask>*.less</mask>
     </recentFileMasks>
   </component>

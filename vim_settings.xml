@@ -3,332 +3,175 @@
     <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/HFC/SSP/src/sombrero/sombrero-catalog/src/test/java/cz/stigma/sombrero/catalog/infrastructure/repository/FeaturesRepositoryIT.java" timestamp="1442312988374">
-        <mark key="]" line="29" column="136" />
-        <mark key="^" line="29" column="136" />
-        <mark key="." line="29" column="136" />
-        <mark key="[" line="29" column="124" />
-      </file>
-      <file name="$USER_HOME$/projects/TMB/src-git/90001/CML_90001/cml-api/src/main/resources/schema/AnonymousIdentity.xsd" timestamp="1433321519547">
-        <mark key="'" line="52" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_63" timestamp="1444311764761">
-        <mark key="'" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/HFC/SSP/src/sombrero/sombrero-catalog/src/test/resources/cz/stigma/sombrero/catalog/infrastructure/repository/FeaturesRepositoryIT.sql" timestamp="1442312765271">
-        <mark key="'" line="86" column="130" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_7" timestamp="1446696516750">
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/HFC/SSP/src/sombrero/data/sql/products_all.sql" timestamp="1442347714309">
-        <mark key="'" line="5" column="51" />
-        <mark key="]" line="13" column="57" />
-        <mark key="^" line="10" column="55" />
-        <mark key="." line="13" column="57" />
-        <mark key="[" line="13" column="57" />
-      </file>
-      <file name="$USER_HOME$/projects/HFC/CSW/src/concept-store-web/src/main/webapp/WEB-INF/templates/products.html" timestamp="1442823425605">
-        <mark key="'" line="154" column="179" />
-      </file>
-      <file name="$USER_HOME$/projects/HFC/SSP/src/sombrero/data/source/technical_features.sql.csv" timestamp="1443108617848">
-        <mark key="'" line="191" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/HFC/SSP/src/sombrero/sombrero-api/src/main/resources/data.sql" timestamp="1440161426074">
-        <mark key="'" line="330" column="110" />
-        <mark key="]" line="13" column="24" />
-        <mark key="^" line="13" column="24" />
-        <mark key="." line="13" column="24" />
-        <mark key="[" line="13" column="9" />
-      </file>
-      <file name="$USER_HOME$/projects/HFC/SSP/src/sombrero/sombrero-api/src/main/java/cz/stigma/sombrero/api/OAuthAuthorizationServerConfig.java" timestamp="1434318179720">
-        <mark key="[" line="83" column="5" />
-      </file>
-      <file name="$USER_HOME$/projects/TMB/src-git/90001/SDPAPI_90001/sdp-api/sdp-api-core/src/main/java/tmsdp/sdpapi/controller/subcontroller/DefaultIdentityExchangeSubcontroller.java" timestamp="1434030192999">
-        <mark key="]" line="88" column="39" />
-        <mark key="^" line="88" column="39" />
-        <mark key="." line="88" column="39" />
-        <mark key="[" line="88" column="24" />
-      </file>
-      <file name="$USER_HOME$/projects/HFC/SSP/src/sombrero/sombrero-api/src/main/java/cz/stigma/sombrero/api/catalog/CatalogApiImpl.java" timestamp="1442930918400">
-        <mark key="'" line="120" column="25" />
-      </file>
-      <file name="$USER_HOME$/projects/HFC/SSP/src/sombrero/sombrero-api/src/main/java/cz/stigma/sombrero/application/http/ApiRequestContextFilter.java" timestamp="1434316463212">
-        <mark key="'" line="19" column="0" />
-        <mark key="]" line="93" column="37" />
-        <mark key="." line="93" column="37" />
-        <mark key="[" line="93" column="37" />
-      </file>
-      <file name="$USER_HOME$/projects/HFC/SSP/src/sombrero/sombrero-api/src/main/resources/logback.xml" timestamp="1434031746103">
-        <mark key="'" line="17" column="4" />
-        <mark key="]" line="16" column="45" />
-        <mark key="^" line="16" column="45" />
-        <mark key="." line="16" column="45" />
-        <mark key="[" line="16" column="41" />
-      </file>
-      <file name="$MAVEN_REPO$/org/springframework/security/oauth/spring-security-oauth2/2.0.7.RELEASE/spring-security-oauth2-2.0.7.RELEASE-sources.jar!/org/springframework/security/oauth2/provider/token/DefaultTokenServices.java" timestamp="1434318072428">
-        <mark key="'" line="261" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/HFC/SSP/src/sombrero/data/source/technical_features.sql" timestamp="1443108694384">
-        <mark key="'" line="0" column="0" />
-        <mark key="]" line="180" column="76" />
-        <mark key="." line="180" column="76" />
-        <mark key="[" line="180" column="72" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1442313155915">
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/HFC/SSP/src/sombrero/sombrero-catalog/src/main/java/cz/stigma/sombrero/catalog/infrastructure/repository/FeaturesRepository.java" timestamp="1442291278227">
-        <mark key="]" line="10" column="62" />
-        <mark key="." line="10" column="62" />
-        <mark key="[" line="10" column="62" />
-      </file>
-      <file name="$USER_HOME$/projects/TMB/src-git/SDPAPI_90000/sdp-api/sdp-api-core/src/main/java/tmsdp/sdpapi/endpoint/exception/mapper/SdpApiExceptionMapper.java" timestamp="1413740535669">
-        <mark key="[" line="20" column="8" />
-      </file>
-      <file name="/a.dummy" timestamp="1442313155927">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/TMB/src-git/SDPAPI_90000/sdp-api/sdp-api-gsma-oneapi/pom.xml" timestamp="1413361895364">
-        <mark key="'" line="117" column="6" />
-        <mark key="]" line="78" column="26" />
-        <mark key="^" line="78" column="26" />
-        <mark key="." line="78" column="26" />
-        <mark key="[" line="78" column="24" />
-      </file>
-      <file name="$USER_HOME$/projects/TMB/src-git/90001/SDPAPI_90001/sdp-api/sdp-api-core/src/test/java/tmsdp/sdpapi/controller/subcontroller/DefaultIdentityExchangeSubcontrollerTest.java" timestamp="1434030293182">
-        <mark key="'" line="74" column="0" />
-        <mark key="]" line="39" column="112" />
-        <mark key="^" line="39" column="112" />
-        <mark key="." line="39" column="112" />
-        <mark key="[" line="38" column="31" />
-      </file>
-      <file name="/fragment.java" timestamp="1442291260388">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/TMB/src-git/90001/SDPAPI_90001/sdp-api/sdp-api-core/src/main/java/tmsdp/sdpapi/adapter/payment/BaseSdpWsAdapter.java" timestamp="1433242059001">
+      <file name="$USER_HOME$/projects/4FI/src/LOANS/loans/modules/domain/src/main/java/com/ofg/loans/domain/model/client/BaseClientRepositoryBean.java" timestamp="1451921390378">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/HFC/SSP/src/sombrero/sql/source/technical_features.sql" timestamp="1442291211710">
-        <mark key="'" line="119" column="0" />
-        <mark key="]" line="11" column="169" />
-        <mark key="." line="11" column="169" />
-        <mark key="[" line="11" column="169" />
+      <file name="$USER_HOME$/projects/4FI/src/DEBTS/debts/launcher/src/main/java/server/EmbeddedJetty.java" timestamp="1447342350962">
+        <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/HFC/SSP/src/sombrero/sombrero-api/src/main/java/cz/stigma/sombrero/api/customer/CustomerAPI.java" timestamp="1439620736245">
-        <mark key="'" line="36" column="0" />
+      <file name="$USER_HOME$/projects/4FI/src/LOC2/line-of-credit/modules/domain/src/test/groovy/com/ofg/loans/domain/model/payment/impl/processors/IdentificationPaymentHelperSpec.groovy" timestamp="1475829390594">
+        <mark key="[" line="84" column="48" />
+        <mark key="]" line="84" column="48" />
+        <mark key="^" line="84" column="48" />
+        <mark key="." line="84" column="48" />
       </file>
-      <file name="$USER_HOME$/projects/HFC/SSP/src/sombrero/data/data-runtime.sql" timestamp="1443360557859">
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="[" line="4" column="0" />
+      <file name="$USER_HOME$/projects/4FI/src/LOC2/line-of-credit/modules/domain/src/main/java/com/ofg/loans/domain/loc/model/identification/DefaultClientIdentificationProcessor.java" timestamp="1482483646293">
+        <mark key="'" line="42" column="12" />
       </file>
-      <file name="$USER_HOME$/projects/TMB/src-git/SPIEXT_9999/src/main/resources/wsdl/cal/cosmote/SDPIdentityManagementReadWS.wsdl" timestamp="1441195817991">
-        <mark key="]" line="3" column="94" />
-        <mark key="." line="3" column="94" />
-        <mark key="[" line="3" column="94" />
+      <file name="$USER_HOME$/projects/4FI/src/LOC2/line-of-credit/modules/domain/src/main/java/com/ofg/loans/domain/loc/model/Transactions.java" timestamp="1491901723036">
+        <mark key="[" line="209" column="62" />
+      </file>
+      <file name="$USER_HOME$/projects/4FI/src/LOC2/line-of-credit/modules/deploy-core/src/main/resources/core/core.updates-1.50.xml" timestamp="1479284080469">
+        <mark key="[" line="6363" column="9" />
+        <mark key="]" line="6363" column="10" />
+        <mark key="^" line="6363" column="10" />
+        <mark key="." line="6363" column="10" />
+      </file>
+      <file name="$USER_HOME$/projects/4FI/src/CB/creditb/creditb-lv/src/test/java/integration/com/ofg/creditb/lv/provider/LvProviderTest.java" timestamp="1464273218344">
+        <mark key="[" line="53" column="43" />
+        <mark key="]" line="53" column="43" />
+        <mark key="." line="53" column="43" />
+      </file>
+      <file name="$USER_HOME$/projects/4FI/src/LOC2/line-of-credit/modules-lv/backoffice-loc-lv/src/main/java/com/ofg/loans/lv/backoffice/ui/application/LvLocViewRegistry.java" timestamp="1465474079493">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/4FI/src/LOC2/line-of-credit/modules/domain/src/test/java/com/ofg/loans/domain/model/payment/PaymentDistributionFixture.java" timestamp="1475829185644">
+        <mark key="[" line="45" column="40" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_45" timestamp="1472807166999">
+        <mark key="'" line="7" column="14" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.16.6/2d4bf466aacc3b9c4218d4ac0f63e4fd69fea5bf/lombok-1.16.6-sources.jar!/lombok/Setter.java" timestamp="1448448954640">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/4FI/src/LOC2/line-of-credit/modules/domain/src/main/java/com/ofg/loans/infrastructure/spring/TransactionWrapperBean.java" timestamp="1472807223451">
+        <mark key="[" line="23" column="1" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_10" timestamp="1460729790668">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="0" column="837" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/4FI/src/LOC/line-of-credit/tests/test-mocks/src/main/java/com/ofg/loans/mocks/impl/MockBankStatementParser.java" timestamp="1447168226304">
+        <mark key="[" line="20" column="23" />
+        <mark key="]" line="19" column="22" />
+        <mark key="^" line="19" column="22" />
+        <mark key="." line="19" column="22" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="26" filename="$USER_HOME$/projects/TMB/src-git/SDPAPI_90000/sdp-api/sdp-api-gsma-oneapi/pom.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/TMB/src-git/SDPAPI_90000/sdp-api/sdp-api-gsma-oneapi/pom.xml" />
-      <jump line="119" column="0" filename="$USER_HOME$/projects/TMB/src-git/SDPAPI_90000/sdp-api/sdp-api-gsma-oneapi/pom.xml" />
-      <jump line="9" column="0" filename="$USER_HOME$/projects/TMB/src-git/SDPAPI_90000/sdp-api/sdp-api-gsma-oneapi/pom.xml" />
-      <jump line="51" column="33" filename="$USER_HOME$/projects/TMB/src-git/SDPAPI_90000/sdp-api/sdp-api-gsma-oneapi/pom.xml" />
-      <jump line="50" column="28" filename="$USER_HOME$/projects/TMB/src-git/SDPAPI_90000/sdp-api/sdp-api-gsma-oneapi/pom.xml" />
-      <jump line="46" column="5" filename="$USER_HOME$/projects/TMB/src-git/SDPAPI_90000/sdp-api/sdp-api-gsma-oneapi/pom.xml" />
-      <jump line="117" column="6" filename="$USER_HOME$/projects/TMB/src-git/SDPAPI_90000/sdp-api/sdp-api-gsma-oneapi/pom.xml" />
-      <jump line="49" column="0" filename="$USER_HOME$/projects/TMB/src-git/90001/SDPAPI_90001/sdp-api/sdp-api-core/src/main/java/tmsdp/sdpapi/adapter/payment/BaseSdpWsAdapter.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/TMB/src-git/90001/SDPAPI_90001/sdp-api/sdp-api-core/src/main/java/tmsdp/sdpapi/adapter/payment/BaseSdpWsAdapter.java" />
-      <jump line="33" column="4" filename="$USER_HOME$/projects/TMB/src-git/90001/CML_90001/cml-api/src/main/resources/schema/AnonymousIdentity.xsd" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/TMB/src-git/90001/CML_90001/cml-api/src/main/resources/schema/AnonymousIdentity.xsd" />
-      <jump line="52" column="0" filename="$USER_HOME$/projects/TMB/src-git/90001/CML_90001/cml-api/src/main/resources/schema/AnonymousIdentity.xsd" />
-      <jump line="73" column="0" filename="$USER_HOME$/projects/TMB/src-git/90001/SDPAPI_90001/sdp-api/sdp-api-core/src/test/java/tmsdp/sdpapi/controller/subcontroller/DefaultIdentityExchangeSubcontrollerTest.java" />
-      <jump line="17" column="4" filename="$USER_HOME$/projects/HFC/SSP/src/sombrero/sombrero-api/src/main/resources/logback.xml" />
-      <jump line="19" column="0" filename="$USER_HOME$/projects/HFC/SSP/src/sombrero/sombrero-api/src/main/java/cz/stigma/sombrero/application/http/ApiRequestContextFilter.java" />
-      <jump line="261" column="0" filename="$MAVEN_REPO$/org/springframework/security/oauth/spring-security-oauth2/2.0.7.RELEASE/spring-security-oauth2-2.0.7.RELEASE-sources.jar!/org/springframework/security/oauth2/provider/token/DefaultTokenServices.java" />
-      <jump line="32" column="51" filename="$USER_HOME$/projects/HFC/SSP/src/sombrero/sombrero-api/src/main/java/cz/stigma/sombrero/api/customer/CustomerAPI.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/HFC/SSP/src/sombrero/sombrero-api/src/main/java/cz/stigma/sombrero/api/customer/CustomerAPI.java" />
-      <jump line="36" column="0" filename="$USER_HOME$/projects/HFC/SSP/src/sombrero/sombrero-api/src/main/java/cz/stigma/sombrero/api/customer/CustomerAPI.java" />
-      <jump line="162" column="0" filename="$USER_HOME$/projects/HFC/SSP/src/sombrero/sombrero-api/src/main/resources/data.sql" />
-      <jump line="16" column="958" filename="$USER_HOME$/projects/HFC/SSP/src/sombrero/sombrero-api/src/main/resources/data.sql" />
-      <jump line="17" column="693" filename="$USER_HOME$/projects/HFC/SSP/src/sombrero/sombrero-api/src/main/resources/data.sql" />
-      <jump line="19" column="677" filename="$USER_HOME$/projects/HFC/SSP/src/sombrero/sombrero-api/src/main/resources/data.sql" />
-      <jump line="20" column="718" filename="$USER_HOME$/projects/HFC/SSP/src/sombrero/sombrero-api/src/main/resources/data.sql" />
-      <jump line="18" column="4526" filename="$USER_HOME$/projects/HFC/SSP/src/sombrero/sombrero-api/src/main/resources/data.sql" />
-      <jump line="23" column="0" filename="$USER_HOME$/projects/HFC/SSP/src/sombrero/sombrero-api/src/main/resources/data.sql" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/HFC/SSP/src/sombrero/sombrero-api/src/main/resources/data.sql" />
-      <jump line="329" column="110" filename="$USER_HOME$/projects/HFC/SSP/src/sombrero/sombrero-api/src/main/resources/data.sql" />
-      <jump line="0" column="42" filename="$USER_HOME$/projects/HFC/SSP/src/sombrero/sql/source/technical_features.sql" />
-      <jump line="90" column="68" filename="$USER_HOME$/projects/HFC/SSP/src/sombrero/sql/source/technical_features.sql" />
-      <jump line="118" column="0" filename="$USER_HOME$/projects/HFC/SSP/src/sombrero/sql/source/technical_features.sql" />
-      <jump line="89" column="0" filename="$USER_HOME$/projects/HFC/SSP/src/sombrero/sql/source/technical_features.sql" />
-      <jump line="59" column="0" filename="$USER_HOME$/projects/HFC/SSP/src/sombrero/sql/source/technical_features.sql" />
-      <jump line="105" column="0" filename="$USER_HOME$/projects/HFC/SSP/src/sombrero/sql/source/technical_features.sql" />
-      <jump line="11" column="0" filename="$USER_HOME$/projects/HFC/SSP/src/sombrero/sql/source/technical_features.sql" />
-      <jump line="92" column="238" filename="$USER_HOME$/projects/HFC/SSP/src/sombrero/sql/source/technical_features.sql" />
-      <jump line="8" column="221" filename="$USER_HOME$/projects/HFC/SSP/src/sombrero/sql/source/technical_features.sql" />
-      <jump line="9" column="296" filename="$USER_HOME$/projects/HFC/SSP/src/sombrero/sql/source/technical_features.sql" />
-      <jump line="10" column="75" filename="$USER_HOME$/projects/HFC/SSP/src/sombrero/sql/source/technical_features.sql" />
-      <jump line="26" column="70" filename="$USER_HOME$/projects/HFC/SSP/src/sombrero/sql/source/technical_features.sql" />
-      <jump line="5" column="0" filename="$USER_HOME$/projects/HFC/SSP/src/sombrero/sql/source/technical_features.sql" />
-      <jump line="119" column="0" filename="$USER_HOME$/projects/HFC/SSP/src/sombrero/sql/source/technical_features.sql" />
-      <jump line="86" column="130" filename="$USER_HOME$/projects/HFC/SSP/src/sombrero/sombrero-catalog/src/test/resources/cz/stigma/sombrero/catalog/infrastructure/repository/FeaturesRepositoryIT.sql" />
-      <jump line="2" column="0" filename="$USER_HOME$/projects/HFC/SSP/src/sombrero/data/sql/products_all.sql" />
-      <jump line="5" column="51" filename="$USER_HOME$/projects/HFC/SSP/src/sombrero/data/sql/products_all.sql" />
-      <jump line="154" column="179" filename="$USER_HOME$/projects/HFC/CSW/src/concept-store-web/src/main/webapp/WEB-INF/templates/products.html" />
-      <jump line="120" column="25" filename="$USER_HOME$/projects/HFC/SSP/src/sombrero/sombrero-api/src/main/java/cz/stigma/sombrero/api/catalog/CatalogApiImpl.java" />
-      <jump line="28" column="29" filename="$USER_HOME$/projects/HFC/SSP/src/sombrero/data/source/technical_features.sql.csv" />
-      <jump line="186" column="26" filename="$USER_HOME$/projects/HFC/SSP/src/sombrero/data/source/technical_features.sql.csv" />
-      <jump line="185" column="64" filename="$USER_HOME$/projects/HFC/SSP/src/sombrero/data/source/technical_features.sql.csv" />
-      <jump line="191" column="0" filename="$USER_HOME$/projects/HFC/SSP/src/sombrero/data/source/technical_features.sql.csv" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/HFC/SSP/src/sombrero/data/source/technical_features.sql" />
-      <jump line="158" column="1024" filename="$USER_HOME$/projects/HFC/SSP/src/sombrero/data/data-runtime.sql" />
-      <jump line="5" column="0" filename="$USER_HOME$/projects/HFC/SSP/src/sombrero/data/data-runtime.sql" />
-      <jump line="39" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_63" />
-      <jump line="14" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_63" />
+      <jump line="173" column="0" filename="$USER_HOME$/projects/4FI/src/DEBTS/debts/launcher/src/main/java/server/EmbeddedJetty.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/4FI/src/DEBTS/debts/launcher/src/main/java/server/EmbeddedJetty.java" />
+      <jump line="78" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.16.6/2d4bf466aacc3b9c4218d4ac0f63e4fd69fea5bf/lombok-1.16.6-sources.jar!/lombok/Setter.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.16.6/2d4bf466aacc3b9c4218d4ac0f63e4fd69fea5bf/lombok-1.16.6-sources.jar!/lombok/Setter.java" />
+      <jump line="239" column="0" filename="$USER_HOME$/projects/4FI/src/LOANS/loans/modules/domain/src/main/java/com/ofg/loans/domain/model/client/BaseClientRepositoryBean.java" />
+      <jump line="307" column="61" filename="$USER_HOME$/projects/4FI/src/LOANS/loans/modules/domain/src/main/java/com/ofg/loans/domain/model/client/BaseClientRepositoryBean.java" />
+      <jump line="291" column="91" filename="$USER_HOME$/projects/4FI/src/LOANS/loans/modules/domain/src/main/java/com/ofg/loans/domain/model/client/BaseClientRepositoryBean.java" />
+      <jump line="232" column="60" filename="$USER_HOME$/projects/4FI/src/LOANS/loans/modules/domain/src/main/java/com/ofg/loans/domain/model/client/BaseClientRepositoryBean.java" />
+      <jump line="44" column="16" filename="$USER_HOME$/projects/4FI/src/LOANS/loans/modules/domain/src/main/java/com/ofg/loans/domain/model/client/BaseClientRepositoryBean.java" />
+      <jump line="360" column="4" filename="$USER_HOME$/projects/4FI/src/LOANS/loans/modules/domain/src/main/java/com/ofg/loans/domain/model/client/BaseClientRepositoryBean.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/4FI/src/LOANS/loans/modules/domain/src/main/java/com/ofg/loans/domain/model/client/BaseClientRepositoryBean.java" />
+      <jump line="0" column="837" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_10" />
+      <jump line="2" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_10" />
+      <jump line="27" column="28" filename="$USER_HOME$/projects/4FI/src/LOC2/line-of-credit/modules-fi/web-api-loc-fi/src/main/java/com/ofg/loans/fi/web/api/resources/instantor/FiInstantorResource.java" />
+      <jump line="7" column="14" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_45" />
+      <jump line="35" column="16" filename="$USER_HOME$/projects/4FI/src/LOC2/line-of-credit/modules/domain/src/main/java/com/ofg/loans/domain/loc/model/identification/DefaultClientIdentificationProcessor.java" />
+      <jump line="43" column="11" filename="$USER_HOME$/projects/4FI/src/LOC2/line-of-credit/modules/domain/src/main/java/com/ofg/loans/domain/loc/model/identification/DefaultClientIdentificationProcessor.java" />
+      <jump line="42" column="12" filename="$USER_HOME$/projects/4FI/src/LOC2/line-of-credit/modules/domain/src/main/java/com/ofg/loans/domain/loc/model/identification/DefaultClientIdentificationProcessor.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAiaW52ZW50b3J5IjogIjkxIE1PIFBSQUhBIiwK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSwK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAiaW52ZW50b3J5IjogIjkxIE1PIFBSQUhBIiwK</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQlhc3NlcnRFcXVhbHMoIkFCSCIsIHJlcy5nZXQoMCkuZ2V0Q29kZSgpKTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAiaW52ZW50b3J5IjogIjg0IE1PIFBMWkXFhyBPTFlNUElBIiwK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSwK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAiaW52ZW50b3J5IjogIjg5IE1PIE9TVFJBVkEiLAo=</text>
-      </register>
-      <register name=":" type="4">
-        <text>%s/\r//g</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSwK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
-      </register>
-      <register name="/" type="4">
-        <text>\n</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
       <register name="-" type="4">
-        <text>li</text>
+        <text encoding="base64">cHJpdmF0ZSA=</text>
+      </register>
+      <register name="/" type="4">
+        <text>void</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgQ2xpZW50V29ya2Zsb3dCdWlsZGVyIGNsaWVudFdvcmtmbG93QnVpbGRlcjsK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLmxvY0FwcGxpY2F0aW9uUmVwb3NpdG9yeSA9IGxvY0FwcGxpY2F0aW9uUmVwb3NpdG9yeTsK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">SU5TRVJUIElOVE8gaW50ZXJuYWxfYmxhY2tsaXN0KGlkLCBhY3RpdmUsIG1lc3NhZ2UsIHBlcnNvbl9pZCwgcmVhc29uX3R5cGUpIFZBTFVFUyAoMSwgJycsICcnLCAnJywgJycpOwpJTlNFUlQgSU5UTyBpbnRlcm5hbF9ibGFja2xpc3QoaWQsIGFjdGl2ZSwgbWVzc2FnZSwgcGVyc29uX2lkLCByZWFzb25fdHlwZSkgVkFMVUVTICgxLCAnJywgJycsICcnLCAnJyk7CklOU0VSVCBJTlRPIGludGVybmFsX2JsYWNrbGlzdChpZCwgYWN0aXZlLCBtZXNzYWdlLCBwZXJzb25faWQsIHJlYXNvbl90eXBlKSBWQUxVRVMgKDEsICcnLCAnJywgJycsICcnKTsKSU5TRVJUIElOVE8gaW50ZXJuYWxfYmxhY2tsaXN0KGlkLCBhY3RpdmUsIG1lc3NhZ2UsIHBlcnNvbl9pZCwgcmVhc29uX3R5cGUpIFZBTFVFUyAoMSwgJycsICcnLCAnJywgJycpOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB2aWV3cy5hZGQoSm91cm5hbFZpZXcuY2xhc3MpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB2aWV3cy5hZGQoQ2FtcGFpZ25FdmVudHNWaWV3LmNsYXNzKTsKICAgICAgICB2aWV3cy5hZGQoR3JvdXBzVmlldy5jbGFzcyk7CiAgICAgICAgdmlld3MuYWRkKFRhc2tDYW1wYWlnbkNsaWVudHNWaWV3LmNsYXNzKTsKICAgICAgICB2aWV3cy5hZGQoU21zQ2FtcGFpZ25DbGllbnRzVmlldy5jbGFzcyk7CiAgICAgICAgdmlld3MuYWRkKFNtc0NhbXBhaWduc0xhdW5jaGVzVmlldy5jbGFzcyk7CiAgICAgICAgdmlld3MuYWRkKFNtc0NhbXBhaWduc0xhdW5jaGVkSXRlbXNWaWV3LmNsYXNzKTsKICAgICAgICB2aWV3cy5hZGQoU21zR3JvdXBWaWV3LmNsYXNzKTsKICAgICAgICB2aWV3cy5hZGQoVGFza0dyb3VwVmlldy5jbGFzcyk7CiAgICAgICAgdmlld3MuYWRkKFBheW1lbnRCdW5kbGVWaWV3LmNsYXNzKTsKICAgICAgICB2aWV3cy5hZGQoTGVkZ2VyVmlldy5jbGFzcyk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB2aWV3cy5hZGQoQ2xpZW50QnVkZ2V0Vmlldy5jbGFzcyk7CiAgICAgICAgdmlld3MuYWRkKENsaWVudEJhbmtzVmlldy5jbGFzcyk7CiAgICAgICAgdmlld3MuYWRkKElkZW50aXR5RG9jdW1lbnRzVmlldy5jbGFzcyk7CiAgICAgICAgdmlld3MuYWRkKENsaWVudHNBZmZpbGlhdGVzVmlldy5jbGFzcyk7CiAgICAgICAgdmlld3MuYWRkKFRhc2tWaWV3LmNsYXNzKTsKICAgICAgICB2aWV3cy5hZGQoQ2FtcGFpZ25NYW5hZ2VyVmlldy5jbGFzcyk7CiAgICAgICAgdmlld3MuYWRkKEludGVybmFsVGFza0NhbXBhaWduc1ZpZXcuY2xhc3MpOwogICAgICAgIHZpZXdzLmFkZChFeHRlcm5hbFRhc2tDYW1wYWlnbnNWaWV3LmNsYXNzKTsKICAgICAgICB2aWV3cy5hZGQoU21zQ2FtcGFpZ25zVmlldy5jbGFzcyk7CiAgICAgICAgdmlld3MuYWRkKFRhc2tDYW1wYWlnblZpZXcuY2xhc3MpOwogICAgICAgIHZpZXdzLmFkZChTbXNDYW1wYWlnblZpZXcuY2xhc3MpOwogICAgICAgIHZpZXdzLmFkZChUYXNrQ2FtcGFpZ25TdGF0aXN0aWNzVmlldy5jbGFzcyk7CiAgICAgICAgdmlld3MuYWRkKFNtc0NhbXBhaWduU3RhdGlzdGljc1ZpZXcuY2xhc3MpOwogICAgICAgIHZpZXdzLmFkZChDYW1wYWlnbk1hbmFnZXJFdmVudHNWaWV3LmNsYXNzKTsKICAgICAgICB2aWV3cy5hZGQoVGFza0NhbXBhaWduQWdlbnRzVmlldy5jbGFzcyk7CiAgICAgICAgdmlld3MuYWRkKENhbXBhaWduUmVwb3J0Q29uZmlnc1ZpZXcuY2xhc3MpOwogICAgICAgIHZpZXdzLmFkZChJbnRlcm5hbFRhc2tDYW1wYWlnblRhc2tzVmlldy5jbGFzcyk7CiAgICAgICAgdmlld3MuYWRkKEV4dGVybmFsVGFza0NhbXBhaWduVGFza3NWaWV3LmNsYXNzKTsKICAgICAgICB2aWV3cy5hZGQoRXh0ZXJuYWxUYXNrQ2FtcGFpZ25UYXNrSW1wb3J0RGV0YWlsc1ZpZXcuY2xhc3MpOwogICAgICAgIHZpZXdzLmFkZChUYXNrTWFuYWdlckV4dGVybmFsUGFydG5lcnNWaWV3LmNsYXNzKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB2aWV3cy5hZGQoUGF5bWVudHNNb25pdG9yVmlldy5jbGFzcyk7CiAgICAgICAgdmlld3MuYWRkKENsaWVudFZpZXcuY2xhc3MpOwogICAgICAgIHZpZXdzLmFkZChQYXltZW50Vmlldy5jbGFzcyk7CiAgICAgICAgdmlld3MuYWRkKFBheW1lbnRzVmlldy5jbGFzcyk7CiAgICAgICAgdmlld3MuYWRkKENvbW11bmljYXRpb25zVmlldy5jbGFzcyk7CiAgICAgICAgdmlld3MuYWRkKFRyYW5zZmVyTG9nVmlldy5jbGFzcyk7CiAgICAgICAgdmlld3MuYWRkKENsaWVudHNWaWV3LmNsYXNzKTsKICAgICAgICB2aWV3cy5hZGQoTGluZXNPZkNyZWRpdFZpZXcuY2xhc3MpOwogICAgICAgIHZpZXdzLmFkZChJbnZvaWNlc1ZpZXcuY2xhc3MpOwogICAgICAgIHZpZXdzLmFkZChMaW5lT2ZDcmVkaXRWaWV3LmNsYXNzKTsKICAgICAgICB2aWV3cy5hZGQoSW5hY3RpdmVDbGllbnRzVmlldy5jbGFzcyk7CiAgICAgICAgdmlld3MuYWRkKEJhbmtBY2NvdW50c1ZpZXcuY2xhc3MpOwogICAgICAgIHZpZXdzLmFkZChBZGRyZXNzZXNWaWV3LmNsYXNzKTsKICAgICAgICB2aWV3cy5hZGQoQWNjb3VudHNWaWV3LmNsYXNzKTsKICAgICAgICB2aWV3cy5hZGQoRW50cmllc1ZpZXcuY2xhc3MpOwogICAgICAgIHZpZXdzLmFkZChUcmFuc2FjdGlvbnNWaWV3LmNsYXNzKTsKICAgICAgICB2aWV3cy5hZGQoTGluZU9mQ3JlZGl0QXBwbGljYXRpb25zVmlldy5jbGFzcyk7CiAgICAgICAgdmlld3MuYWRkKExpbmVPZkNyZWRpdEFwcGxpY2F0aW9uVmlldy5jbGFzcyk7CiAgICAgICAgdmlld3MuYWRkKENyZWRpdGJDb25maWdWaWV3LmNsYXNzKTsKICAgICAgICB2aWV3cy5hZGQoUHJvZHVjdHNWaWV3LmNsYXNzKTsKICAgICAgICB2aWV3cy5hZGQoUHJvZHVjdFZpZXcuY2xhc3MpOwogICAgICAgIHZpZXdzLmFkZChQYXltZW50RGlzdHJpYnV0aW9uc1ZpZXcuY2xhc3MpOwogICAgICAgIHZpZXdzLmFkZChDcmVkaXRMaW1pdHNWaWV3LmNsYXNzKTsKICAgICAgICB2aWV3cy5hZGQoQ2xpZW50QWRkcmVzc2VzVmlldy5jbGFzcyk7CiAgICAgICAgdmlld3MuYWRkKEJhbmtzVmlldy5jbGFzcyk7CiAgICAgICAgdmlld3MuYWRkKENsaWVudEV2ZW50c1ZpZXcuY2xhc3MpOwogICAgICAgIHZpZXdzLmFkZChDb21tdW5pY2F0aW9uVmlldy5jbGFzcyk7CiAgICAgICAgdmlld3MuYWRkKEdyb292eVZpZXcuY2xhc3MpOwogICAgICAgIHZpZXdzLmFkZChEYXNoYm9hcmRWaWV3LmNsYXNzKTsKICAgICAgICB2aWV3cy5hZGQoQmFua1R1cm5vdmVyc1ZpZXcuY2xhc3MpOwogICAgICAgIHZpZXdzLmFkZChDbG9zZUFjY291bnRpZ1BlcmlvZFZpZXcuY2xhc3MpOwogICAgICAgIHZpZXdzLmFkZChCYW5rVHJhbnNhY3Rpb25zVmlldy5jbGFzcyk7CiAgICAgICAgdmlld3MuYWRkKFJldmlzaW9uVmlldy5jbGFzcyk7CiAgICAgICAgdmlld3MuYWRkKENsaWVudElkZW50aXR5RG9jdW1lbnRzVmlldy5jbGFzcyk7CiAgICAgICAgdmlld3MuYWRkKENyZWRpdEJ1cmVhdVZpZXcuY2xhc3MpOwogICAgICAgIHZpZXdzLmFkZChBdHRhY2htZW50Vmlldy5jbGFzcyk7CiAgICAgICAgdmlld3MuYWRkKFJlcG9ydHNWaWV3LmNsYXNzKTsKICAgICAgICB2aWV3cy5hZGQoU2VjdXJpdHlWaWV3LmNsYXNzKTsKICAgICAgICB2aWV3cy5hZGQoUGhvbmVBcHBsaWNhdGlvblZpZXcuY2xhc3MpOwogICAgICAgIHZpZXdzLmFkZChTZWFyY2hWaWV3LmNsYXNzKTsKICAgICAgICB2aWV3cy5hZGQoQ29tbWlzc2lvbnNWaWV3LmNsYXNzKTsKICAgICAgICB2aWV3cy5hZGQoVGFza3NNb25pdG9yVmlldy5jbGFzcyk7CiAgICAgICAgdmlld3MuYWRkKFRhc2tzTW9uaXRvckxlZ2FjeVZpZXcuY2xhc3MpOwogICAgICAgIHZpZXdzLmFkZChUYXNrc1ZpZXcuY2xhc3MpOwogICAgICAgIHZpZXdzLmFkZChDcmVkaXRTY29yZURlY2lzaW9uc1ZpZXcuY2xhc3MpOwogICAgICAgIHZpZXdzLmFkZChTY29yZWNhcmRzVmlldy5jbGFzcyk7CiAgICAgICAgdmlld3MuYWRkKFNjb3JlY2FyZFZpZXcuY2xhc3MpOwogICAgICAgIHZpZXdzLmFkZChNYW51YWxQYXltZW50RXhwb3J0Vmlldy5jbGFzcyk7CiAgICAgICAgdmlld3MuYWRkKFNjb3JlY2FyZFJlc3VsdFZpZXcuY2xhc3MpOwogICAgICAgIHZpZXdzLmFkZChBZmZpbGlhdGVQcm92aWRlckNvbmZpZ3VyYXRpb25WaWV3LmNsYXNzKTsK</text>
+      </register>
+      <register name="8" type="4">
+        <text />
+      </register>
+      <register name=":" type="4">
+        <text>set hlsearch</text>
       </register>
     </registers>
     <search>
-      <last-search>url</last-search>
+      <last-search>void</last-search>
       <last-offset />
-      <last-pattern>\n</last-pattern>
+      <last-pattern>void</last-pattern>
       <last-replace />
-      <last-substitute>\n</last-substitute>
+      <last-substitute>&quot;idChecklists.*\],</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>('cs,</entry>
-        <entry>('en,</entry>
+        <entry>class</entry>
         <entry>,</entry>
-        <entry>'',''</entry>
-        <entry>'</entry>
-        <entry>$');</entry>
-        <entry>;</entry>
-        <entry>')','$</entry>
-        <entry>^.*] select</entry>
-        <entry>SELECT distinct</entry>
-        <entry>from</entry>
-        <entry>url</entry>
-        <entry>^</entry>
-        <entry>$</entry>
-        <entry>|</entry>
-        <entry>(</entry>
-        <entry>('language</entry>
-        <entry>&quot;$</entry>
-        <entry>\r</entry>
-        <entry>\n</entry>
+        <entry>&quot;idChecklists.*\],</entry>
+        <entry>void</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/,/','/g</entry>
-        <entry>%s/'',''/','/g</entry>
-        <entry>%s/^/INSERT INTO feature (language, code,title, description) VALUES ('</entry>
-        <entry>%s/$');</entry>
-        <entry>%s/^/INSERT INTO feature (language, code,title, description) VALUES ('/g</entry>
-        <entry>%s/;/','/g</entry>
-        <entry>%s/')','$/');/g</entry>
-        <entry>w</entry>
-        <entry>%s/^.*] select/SELECT/g</entry>
-        <entry>set hlsearch</entry>
-        <entry>%s/^/INSERT INTO feature (language, code,title, description) VALUES (/g</entry>
-        <entry>%s/$/');/g</entry>
-        <entry>%s/|/',');/g</entry>
-        <entry>%s/|/','/g</entry>
-        <entry>%s/(/('/g</entry>
-        <entry>%s/('language/(language/g</entry>
+        <entry>%s/,/,\n/r</entry>
+        <entry>%s/,/,\r/d</entry>
+        <entry>%s/,/,\n/d</entry>
+        <entry>%s/,/,\r/g</entry>
         <entry>1</entry>
-        <entry>%s/&quot;$/&quot;,/g</entry>
-        <entry>%s/\r//g</entry>
-        <entry>%s/\n//g</entry>
+        <entry>%s/&quot;idChecklists.*\],//g</entry>
+        <entry>$</entry>
+        <entry>hlsearch</entry>
+        <entry>set hlsearch</entry>
       </history-cmd>
       <history-expr />
       <history-input />
     </history>
     <shortcut-conflicts>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed B</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed G</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed Q</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed V</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed S</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed E</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed A</text>
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed D</text>
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed C</text>
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed X</text>
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
