@@ -58,9 +58,13 @@
           <option name="url" value="git@gitlab.com:stigma-distribution/sombrero-pos-vue.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.com:stigma-distribution/sombrero-messages.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/projects/HFC/sombrero" />
+    <option name="cloneParentDir" value="$USER_HOME$/projects/HFC/sombrero/src" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/projects/4FI/src/LOC2/line-of-credit" />
