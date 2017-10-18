@@ -9,4 +9,8 @@
     <option name="concatenateStringsOnEnter" value="true" />
     <option name="qualificationType" value="On collisions" />
   </component>
+  <component name="TodoConfiguration">
+    <pattern case-sensitive="true" pattern="\btodo\b.*" />
+    <pattern case-sensitive="true" pattern="\bfixme\b.*" />
+  </component>
 </application>
