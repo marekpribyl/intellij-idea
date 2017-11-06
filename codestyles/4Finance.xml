@@ -24,7 +24,6 @@
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
   <XML>
-    <option name="XML_KEEP_WHITESPACES" value="true" />
     <option name="XML_KEEP_WHITE_SPACES_INSIDE_CDATA" value="true" />
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
@@ -34,6 +33,9 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="XML">
+    <indentOptions>
+      <option name="SMART_TABS" value="true" />
+    </indentOptions>
     <arrangement>
       <rules>
         <section>
