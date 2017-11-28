@@ -125,7 +125,7 @@
                 <option name="grepExpressionItems">
                   <list>
                     <GrepExpressionItem>
-                      <option name="grepExpression" value="conpleted in" />
+                      <option name="grepExpression" value="completed in" />
                       <option name="highlightOnlyMatchingText" value="true" />
                       <option name="id" value="6c48d50d-e747-44fc-9b38-fbc144fe48c3" />
                       <option name="style">
@@ -148,6 +148,7 @@
           </option>
           <option name="id" value="1447929074077" />
           <option name="maxProcessingTime" value="2000" />
+          <option name="multilineInputFilter" value="true" />
           <option name="name" value="default" />
         </Profile>
       </list>
