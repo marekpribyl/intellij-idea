@@ -4,6 +4,7 @@
       <list>
         <Profile>
           <option name="defaultProfile" value="true" />
+          <option name="enabledInputFiltering" value="false" />
           <option name="grepExpressionGroups">
             <list>
               <GrepExpressionGroup>
@@ -137,6 +138,24 @@
                             </GrepColor>
                           </option>
                           <option name="id" value="02b3e6ae-6a3b-468a-93d9-4c0d79ae018d" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="continueMatching" value="true" />
+                      <option name="grepExpression" value="Products collection loaded from DB in" />
+                      <option name="highlightOnlyMatchingText" value="true" />
+                      <option name="id" value="e6cb939b-abbb-46a3-b614-cc65045ec988" />
+                      <option name="operationOnMatch" value="CONTINUE_MATCHING" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-4810" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="eead4b34-3ed8-4768-aaa4-a20fed1f266c" />
                         </GrepStyle>
                       </option>
                     </GrepExpressionItem>
