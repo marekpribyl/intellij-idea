@@ -125,8 +125,7 @@
                 <option name="grepExpressionItems">
                   <list>
                     <GrepExpressionItem>
-                      <option name="enabled" value="false" />
-                      <option name="grepExpression" value="cz.stigma" />
+                      <option name="grepExpression" value="completed in" />
                       <option name="id" value="6c48d50d-e747-44fc-9b38-fbc144fe48c3" />
                       <option name="style">
                         <GrepStyle>
