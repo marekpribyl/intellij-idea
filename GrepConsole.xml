@@ -4,6 +4,7 @@
       <list>
         <Profile>
           <option name="defaultProfile" value="true" />
+          <option name="enabledInputFiltering" value="false" />
           <option name="grepExpressionGroups">
             <list>
               <GrepExpressionGroup>
@@ -125,7 +126,8 @@
                 <option name="grepExpressionItems">
                   <list>
                     <GrepExpressionItem>
-                      <option name="grepExpression" value="completed in" />
+                      <option name="enabled" value="false" />
+                      <option name="grepExpression" value="cz.stigma" />
                       <option name="id" value="6c48d50d-e747-44fc-9b38-fbc144fe48c3" />
                       <option name="style">
                         <GrepStyle>
@@ -139,6 +141,24 @@
                         </GrepStyle>
                       </option>
                     </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="continueMatching" value="true" />
+                      <option name="grepExpression" value="Products collection loaded from DB in" />
+                      <option name="highlightOnlyMatchingText" value="true" />
+                      <option name="id" value="e6cb939b-abbb-46a3-b614-cc65045ec988" />
+                      <option name="operationOnMatch" value="CONTINUE_MATCHING" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-4810" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="eead4b34-3ed8-4768-aaa4-a20fed1f266c" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
                   </list>
                 </option>
                 <option name="name" value="new" />
@@ -147,6 +167,7 @@
           </option>
           <option name="id" value="1447929074077" />
           <option name="maxProcessingTime" value="2000" />
+          <option name="multilineInputFilter" value="true" />
           <option name="name" value="default" />
         </Profile>
       </list>
