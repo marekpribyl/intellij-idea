@@ -10,6 +10,7 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
+      <removed_mapping ext="conf" approved="true" type="HOCON" />
       <mapping pattern="Template Email - sandbox" type="HTML" />
       <mapping pattern="Template Email test" type="HTML" />
       <mapping pattern="csw-b2c-cz" type="JSON" />
