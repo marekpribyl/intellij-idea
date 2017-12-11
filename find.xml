@@ -7,14 +7,8 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="risk*.*" />
     <recentFileMasks>
-      <mask>*S</mask>
-      <mask>*</mask>
-      <mask>*.css</mask>
-      <mask>*.cs</mask>
-      <mask>*.c</mask>
-      <mask>*.sql</mask>
-      <mask>*.sq</mask>
       <mask>*.s</mask>
       <mask>*.xml</mask>
       <mask>*.xm</mask>
@@ -33,11 +27,18 @@
       <mask>*.gra</mask>
       <mask>*.gr</mask>
       <mask>*.g</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
-      <mask>*.ja</mask>
-      <mask>*.jav</mask>
       <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
+      <mask>r*</mask>
+      <mask>ri*</mask>
+      <mask>ris*</mask>
+      <mask>risk*</mask>
+      <mask>risk*.</mask>
+      <mask>risk*.*</mask>
     </recentFileMasks>
   </component>
 </application>
