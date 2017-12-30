@@ -100,6 +100,7 @@
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="continueMatching" value="true" />
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value="^.*INFO.*$" />
                       <option name="highlightOnlyMatchingText" value="true" />
                       <option name="id" value="109a141c-7e03-40f7-95ee-0c837d607f2f" />
