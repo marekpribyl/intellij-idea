@@ -31,6 +31,7 @@
       <mapping ext="cms_sms" type="PLAIN_TEXT" />
       <mapping ext="environment" type="PLAIN_TEXT" />
       <mapping ext="integrator" type="PLAIN_TEXT" />
+      <mapping ext="fi" type="PLAIN_TEXT" />
       <mapping ext="exec" type="PLAIN_TEXT" />
       <mapping ext=" sql" type="SQL" />
       <mapping pattern="temp" type="XML" />
