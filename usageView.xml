@@ -11,5 +11,6 @@
   <component name="UsageViewSettings">
     <option name="IS_PREVIEW_USAGES" value="true" />
     <option name="GROUP_BY_FILE_STRUCTURE" value="false" />
+    <option name="GROUP_BY_SCOPE" value="true" />
   </component>
 </application>
