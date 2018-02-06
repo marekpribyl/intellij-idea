@@ -56,6 +56,9 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/HFC/sombrero/src/sombrero-ssp/vario-proxy/src/main/java/cz/stigma/sombrero/catalog/etl/preloader/KatalogPreloader.java" timestamp="1508882612843">
+        <mark key="'" line="74" column="5" />
+      </file>
       <file name="$USER_HOME$/projects/4FI/src/LOC/line-of-credit/tests/test-mocks/src/main/java/com/ofg/loans/mocks/impl/MockBankStatementParser.java" timestamp="1447168226304">
         <mark key="[" line="20" column="23" />
         <mark key="]" line="19" column="22" />
@@ -82,6 +85,7 @@
       <jump line="35" column="16" filename="$USER_HOME$/projects/4FI/src/LOC2/line-of-credit/modules/domain/src/main/java/com/ofg/loans/domain/loc/model/identification/DefaultClientIdentificationProcessor.java" />
       <jump line="43" column="11" filename="$USER_HOME$/projects/4FI/src/LOC2/line-of-credit/modules/domain/src/main/java/com/ofg/loans/domain/loc/model/identification/DefaultClientIdentificationProcessor.java" />
       <jump line="42" column="12" filename="$USER_HOME$/projects/4FI/src/LOC2/line-of-credit/modules/domain/src/main/java/com/ofg/loans/domain/loc/model/identification/DefaultClientIdentificationProcessor.java" />
+      <jump line="74" column="5" filename="$USER_HOME$/projects/HFC/sombrero/src/sombrero-ssp/vario-proxy/src/main/java/cz/stigma/sombrero/catalog/etl/preloader/KatalogPreloader.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -91,7 +95,7 @@
         <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
       <register name="/" type="4">
-        <text>void</text>
+        <text>$</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgQ2xpZW50V29ya2Zsb3dCdWlsZGVyIGNsaWVudFdvcmtmbG93QnVpbGRlcjsK</text>
@@ -121,15 +125,15 @@
         <text />
       </register>
       <register name=":" type="4">
-        <text>set hlsearch</text>
+        <text>75,96s/$/,/g</text>
       </register>
     </registers>
     <search>
-      <last-search>void</last-search>
+      <last-search>$</last-search>
       <last-offset />
-      <last-pattern>void</last-pattern>
-      <last-replace />
-      <last-substitute>&quot;idChecklists.*\],</last-substitute>
+      <last-pattern>$</last-pattern>
+      <last-replace>,</last-replace>
+      <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -139,6 +143,7 @@
         <entry>,</entry>
         <entry>&quot;idChecklists.*\],</entry>
         <entry>void</entry>
+        <entry>$</entry>
       </history-search>
       <history-cmd>
         <entry>%s/,/,\n/r</entry>
@@ -150,6 +155,7 @@
         <entry>$</entry>
         <entry>hlsearch</entry>
         <entry>set hlsearch</entry>
+        <entry>75,96s/$/,/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />

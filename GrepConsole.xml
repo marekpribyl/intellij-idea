@@ -32,7 +32,6 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
-                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*ERROR.*" />
                       <option name="id" value="daad140d-cbfd-4697-a4ae-10f04c46b7b0" />
                       <option name="style">
@@ -105,6 +104,7 @@
                       <option name="grepExpression" value="^.*INFO.*$" />
                       <option name="highlightOnlyMatchingText" value="true" />
                       <option name="id" value="109a141c-7e03-40f7-95ee-0c837d607f2f" />
+                      <option name="inputFilter" value="true" />
                       <option name="operationOnMatch" value="CONTINUE_MATCHING" />
                       <option name="style">
                         <GrepStyle>
@@ -140,6 +140,25 @@
                         </GrepStyle>
                       </option>
                     </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="continueMatching" value="true" />
+                      <option name="enabled" value="false" />
+                      <option name="grepExpression" value="Products collection loaded from DB in" />
+                      <option name="highlightOnlyMatchingText" value="true" />
+                      <option name="id" value="e6cb939b-abbb-46a3-b614-cc65045ec988" />
+                      <option name="operationOnMatch" value="CONTINUE_MATCHING" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-4810" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="eead4b34-3ed8-4768-aaa4-a20fed1f266c" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
                   </list>
                 </option>
                 <option name="name" value="new" />
@@ -148,6 +167,8 @@
           </option>
           <option name="id" value="1447929074077" />
           <option name="maxProcessingTime" value="2000" />
+          <option name="multilineInputFilter" value="true" />
+          <option name="name" value="default" />
         </Profile>
       </list>
     </option>
