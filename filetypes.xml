@@ -35,6 +35,7 @@
       <mapping ext="integrator" type="PLAIN_TEXT" />
       <mapping ext="fi" type="PLAIN_TEXT" />
       <mapping ext="exec" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="Properties" />
       <mapping ext=" sql" type="SQL" />
       <mapping pattern="temp" type="XML" />
       <mapping pattern="kategorie" type="XML" />
