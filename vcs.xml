@@ -98,9 +98,13 @@
           <option name="url" value="https://Marek.Pribyl@stash.4finance.net/scm/testtools/tupas-mock.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/marekpribyl/vuejs-poster-shop.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/projects/4FI/src/TESTTOOLS" />
+    <option name="cloneParentDir" value="$USER_HOME$/projects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="MIGRATED" value="true" />
