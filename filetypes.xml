@@ -24,6 +24,7 @@
       <mapping pattern="NOTES" type="PLAIN_TEXT" />
       <mapping pattern="all" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping pattern="transformations" type="PLAIN_TEXT" />
       <mapping pattern=".getkeep" type="PLAIN_TEXT" />
       <mapping pattern="services" type="PLAIN_TEXT" />
       <mapping pattern="out" type="PLAIN_TEXT" />
