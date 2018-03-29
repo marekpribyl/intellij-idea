@@ -110,12 +110,17 @@
           <option name="url" value="https://Marek.Pribyl@stash.4finance.net/scm/infra/nano-infra-spring.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://Marek.Pribyl@stash.4finance.net/scm/ff/documents-microservice.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://Marek.Pribyl@stash.4finance.net/scm/ff/documents-migration-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/projects/4FI/src/INFRA" />
-  </component>
-  <component name="Vcs.Log.App.Settings">
-    <option name="MIGRATED" value="true" />
+    <option name="cloneParentDir" value="$USER_HOME$/projects/4FI/src/FF" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/projects/4FI/src/LOC2/line-of-credit" />
