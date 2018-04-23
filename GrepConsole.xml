@@ -159,6 +159,24 @@
                         </GrepStyle>
                       </option>
                     </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="continueMatching" value="true" />
+                      <option name="grepExpression" value="Consent" />
+                      <option name="highlightOnlyMatchingText" value="true" />
+                      <option name="id" value="fdb67ce5-06e9-499a-9761-aefb0ac0916e" />
+                      <option name="operationOnMatch" value="CONTINUE_MATCHING" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-16711681" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="74eba122-0581-4667-9b0c-e8acdc321ec4" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
                   </list>
                 </option>
                 <option name="name" value="new" />
