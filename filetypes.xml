@@ -42,6 +42,7 @@
       <mapping ext="fi" type="PLAIN_TEXT" />
       <mapping ext="exec" type="PLAIN_TEXT" />
       <mapping ext="conf" type="Properties" />
+      <mapping pattern="V5__TRELLO-880_dhl_express_worldwide" type="SQL" />
       <mapping ext=" sql" type="SQL" />
       <mapping pattern="temp" type="XML" />
       <mapping pattern="kategorie" type="XML" />
