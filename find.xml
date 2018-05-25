@@ -2,44 +2,19 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localCaseSensitive" value="true" />
     <option name="localRegularExpressions" value="true" />
     <option name="showResultsInSeparateView" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.xm</mask>
-      <mask>*.x</mask>
-      <mask>*.yml</mask>
-      <mask>*.ym</mask>
-      <mask>*.yaml</mask>
-      <mask>*.yam</mask>
-      <mask>*.ya</mask>
-      <mask>*.y</mask>
-      <mask>*.properties</mask>
-      <mask>*.propertie</mask>
-      <mask>*.properti</mask>
-      <mask>*.propert</mask>
-      <mask>*.proper</mask>
-      <mask>*.prope</mask>
-      <mask>*.prop</mask>
-      <mask>*.pro</mask>
-      <mask>*.pr</mask>
-      <mask>*.p</mask>
-      <mask>*.jav</mask>
-      <mask>*.ja</mask>
-      <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*.g</mask>
-      <mask>*.gr</mask>
-      <mask>*.gro</mask>
-      <mask>*.groo</mask>
-      <mask>*.groov</mask>
-      <mask>*.groovy</mask>
-      <mask>*.java</mask>
-      <mask>*.xml</mask>
-    </recentFileMasks>
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.java</mask>
+    <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
