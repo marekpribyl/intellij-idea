@@ -11,7 +11,6 @@
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping pattern="delete_deprecated_client_events" type="Groovy" />
-      <removed_mapping ext="conf" type="HOCON" />
       <mapping pattern="Template Email - sandbox" type="HTML" />
       <mapping pattern="Template Email test" type="HTML" />
       <mapping pattern="csw-b2c-cz" type="JSON" />
@@ -44,7 +43,6 @@
       <mapping ext="fi" type="PLAIN_TEXT" />
       <mapping ext="exec" type="PLAIN_TEXT" />
       <mapping ext="conf" type="Properties" />
-      <mapping pattern="V5__TRELLO-880_dhl_express_worldwide" type="SQL" />
       <mapping ext=" sql" type="SQL" />
       <mapping pattern="temp" type="XML" />
       <mapping pattern="kategorie" type="XML" />
