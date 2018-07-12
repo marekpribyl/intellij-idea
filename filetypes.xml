@@ -31,15 +31,16 @@
       <mapping pattern="out" type="PLAIN_TEXT" />
       <mapping pattern="MANIFEST" type="PLAIN_TEXT" />
       <mapping pattern=".empty" type="PLAIN_TEXT" />
+      <mapping pattern="TODO" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="playground" type="PLAIN_TEXT" />
       <mapping pattern="subse_client_credential" type="PLAIN_TEXT" />
       <mapping ext="off" type="PLAIN_TEXT" />
       <mapping ext="ser" type="PLAIN_TEXT" />
-      <mapping ext="integrator" type="PLAIN_TEXT" />
       <mapping ext="cms_sms" type="PLAIN_TEXT" />
       <mapping ext="rc" type="PLAIN_TEXT" />
       <mapping ext="environment" type="PLAIN_TEXT" />
+      <mapping ext="integrator" type="PLAIN_TEXT" />
       <mapping ext="fi" type="PLAIN_TEXT" />
       <mapping ext="exec" type="PLAIN_TEXT" />
       <mapping ext="conf" type="Properties" />
