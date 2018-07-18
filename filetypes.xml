@@ -36,6 +36,7 @@
       <mapping pattern="playground" type="PLAIN_TEXT" />
       <mapping pattern="subse_client_credential" type="PLAIN_TEXT" />
       <mapping ext="off" type="PLAIN_TEXT" />
+      <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="ser" type="PLAIN_TEXT" />
       <mapping ext="cms_sms" type="PLAIN_TEXT" />
       <mapping ext="rc" type="PLAIN_TEXT" />
