@@ -12,7 +12,6 @@
   <action id="Console.TableResult.ColumnsList" />
   <action id="Diff.FocusOppositePane" />
   <action id="Diff.FocusOppositePaneAndScroll" />
-  <action id="FileStructurePopup" />
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="shift alt 7" />
   </action>
@@ -27,9 +26,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt b" />
   </action>
   <action id="GotoCustomRegion" />
-  <action id="JumpToLastWindow">
-    <keyboard-shortcut first-keystroke="ctrl f12" />
-  </action>
+  <action id="JumpToLastWindow" />
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="ctrl tab" />
   </action>
