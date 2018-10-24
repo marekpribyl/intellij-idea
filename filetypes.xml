@@ -10,8 +10,8 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
-      <mapping pattern="02_200_get_offer" type="Groovy" />
       <mapping pattern="delete_deprecated_client_events" type="Groovy" />
+      <mapping pattern="02_200_get_offer" type="Groovy" />
       <mapping pattern="Template Email - sandbox" type="HTML" />
       <mapping pattern="Template Email test" type="HTML" />
       <mapping pattern="csw-b2c-cz" type="JSON" />
@@ -37,8 +37,8 @@
       <mapping pattern="playground" type="PLAIN_TEXT" />
       <mapping pattern="subse_client_credential" type="PLAIN_TEXT" />
       <mapping ext="off" type="PLAIN_TEXT" />
-      <mapping ext="sample" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
+      <mapping ext="sample" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="ser" type="PLAIN_TEXT" />
       <mapping ext="cms_sms" type="PLAIN_TEXT" />
@@ -48,7 +48,9 @@
       <mapping ext="fi" type="PLAIN_TEXT" />
       <mapping ext="exec" type="PLAIN_TEXT" />
       <mapping ext="conf" type="Properties" />
+      <mapping ext="dll" type="SQL" />
       <mapping ext=" sql" type="SQL" />
+      <removed_mapping ext="dll" type="UNKNOWN" />
       <mapping pattern="temp" type="XML" />
       <mapping pattern="kategorie" type="XML" />
     </extensionMap>
