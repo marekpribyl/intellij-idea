@@ -48,9 +48,7 @@
       <mapping ext="fi" type="PLAIN_TEXT" />
       <mapping ext="exec" type="PLAIN_TEXT" />
       <mapping ext="conf" type="Properties" />
-      <mapping ext="dll" type="SQL" />
       <mapping ext=" sql" type="SQL" />
-      <removed_mapping ext="dll" type="UNKNOWN" />
       <mapping pattern="temp" type="XML" />
       <mapping pattern="kategorie" type="XML" />
     </extensionMap>
