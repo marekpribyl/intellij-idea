@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/projects/4FI/src/LOANS/loans/modules/domain/src/main/java/com/ofg/loans/domain/model/client/BaseClientRepositoryBean.java" timestamp="1451921390378">
@@ -15,6 +15,9 @@
         <mark key="^" line="84" column="48" />
         <mark key="." line="84" column="48" />
       </file>
+      <file name="$USER_HOME$/projects/CON/src/originate/src/main/java/com/consorticon/originate/domain/calculator/offer/OfferTweaker.java" timestamp="1541362740704">
+        <mark key="[" line="25" column="39" />
+      </file>
       <file name="$USER_HOME$/projects/4FI/src/LOC2/line-of-credit/modules/domain/src/main/java/com/ofg/loans/domain/loc/model/identification/DefaultClientIdentificationProcessor.java" timestamp="1482483646293">
         <mark key="'" line="42" column="12" />
       </file>
@@ -26,6 +29,9 @@
         <mark key="]" line="6363" column="10" />
         <mark key="^" line="6363" column="10" />
         <mark key="." line="6363" column="10" />
+      </file>
+      <file name="$USER_HOME$/projects/CON/src/originate/src/main/java/com/consorticon/originate/api/LoanVehicleService.java" timestamp="1541362800209">
+        <mark key="[" line="72" column="22" />
       </file>
       <file name="$USER_HOME$/projects/4FI/src/CB/creditb/creditb-lv/src/test/java/integration/com/ofg/creditb/lv/provider/LvProviderTest.java" timestamp="1464273218344">
         <mark key="[" line="53" column="43" />
@@ -71,6 +77,9 @@
         <mark key="]" line="19" column="22" />
         <mark key="^" line="19" column="22" />
         <mark key="." line="19" column="22" />
+      </file>
+      <file name="$USER_HOME$/projects/CON/src/originate/src/main/java/com/consorticon/originate/api/LoanApplicationApiResource.java" timestamp="1541362685279">
+        <mark key="[" line="109" column="43" />
       </file>
     </filemarks>
     <jumps>
