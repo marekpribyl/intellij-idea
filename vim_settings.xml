@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/projects/4FI/src/LOANS/loans/modules/domain/src/main/java/com/ofg/loans/domain/model/client/BaseClientRepositoryBean.java" timestamp="1451921390378">
@@ -30,8 +30,11 @@
         <mark key="^" line="6363" column="10" />
         <mark key="." line="6363" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/CON/src/originate/src/main/java/com/consorticon/originate/api/LoanVehicleService.java" timestamp="1541362800209">
+      <file name="$USER_HOME$/projects/CON/src/originate/src/main/java/com/consorticon/originate/api/LoanVehicleService.java" timestamp="1541362956293">
         <mark key="[" line="72" column="22" />
+        <mark key="]" line="72" column="79" />
+        <mark key="^" line="72" column="79" />
+        <mark key="." line="72" column="79" />
       </file>
       <file name="$USER_HOME$/projects/4FI/src/CB/creditb/creditb-lv/src/test/java/integration/com/ofg/creditb/lv/provider/LvProviderTest.java" timestamp="1464273218344">
         <mark key="[" line="53" column="43" />
@@ -206,6 +209,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
