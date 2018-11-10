@@ -30,6 +30,7 @@
       <mapping pattern="transformations" type="PLAIN_TEXT" />
       <mapping pattern=".getkeep" type="PLAIN_TEXT" />
       <mapping pattern="services" type="PLAIN_TEXT" />
+      <mapping pattern="transformations_incremental" type="PLAIN_TEXT" />
       <mapping pattern="out" type="PLAIN_TEXT" />
       <mapping pattern="MANIFEST" type="PLAIN_TEXT" />
       <mapping pattern=".empty" type="PLAIN_TEXT" />
