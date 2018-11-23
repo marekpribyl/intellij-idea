@@ -10,10 +10,18 @@
       <option name="JAVA_EXPRESSION" value="true" />
     </context>
   </template>
-  <template name="format" value="String.format($SELECTION$, $CURSOR$)" description="String.format()" toReformat="false" toShortenFQNames="true">
+  <template name="FMT" value="String.format($SELECTION$, $CURSOR$)" description="String.format()" toReformat="false" toShortenFQNames="true">
     <variable name="CURSOR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_EXPRESSION" value="true" />
+    </context>
+  </template>
+  <template name="PP" value="!($SELECTION$)" description="Surround with !()" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="KOTLIN" value="true" />
+      <option name="Python" value="true" />
     </context>
   </template>
 </templateSet>

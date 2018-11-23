@@ -128,9 +128,9 @@
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
+    <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
   </component>
   <component name="VcsApplicationSettings">
-    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/projects/4FI/src/LOC2/line-of-credit" />
-    <option name="SHOW_LST_WORD_DIFFERENCES" value="false" />
+    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/projects/CON/src/originate" />
   </component>
 </application>
