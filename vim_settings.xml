@@ -6,8 +6,18 @@
       <file name="$USER_HOME$/projects/4FI/src/LOANS/loans/modules/domain/src/main/java/com/ofg/loans/domain/model/client/BaseClientRepositoryBean.java" timestamp="1451921390378">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_10" timestamp="1460729790668">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="0" column="837" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/4FI/src/DEBTS/debts/launcher/src/main/java/server/EmbeddedJetty.java" timestamp="1447342350962">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_45" timestamp="1472807166999">
+        <mark key="'" line="7" column="14" />
       </file>
       <file name="$USER_HOME$/projects/4FI/src/LOC2/line-of-credit/modules/domain/src/test/groovy/com/ofg/loans/domain/model/payment/impl/processors/IdentificationPaymentHelperSpec.groovy" timestamp="1475829390594">
         <mark key="[" line="84" column="48" />
@@ -41,13 +51,6 @@
         <mark key="]" line="53" column="43" />
         <mark key="." line="53" column="43" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.txt" timestamp="1539945720186">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/4FI/src/LOC2/line-of-credit/modules-lv/backoffice-loc-lv/src/main/java/com/ofg/loans/lv/backoffice/ui/application/LvLocViewRegistry.java" timestamp="1465474079493">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -55,16 +58,6 @@
       </file>
       <file name="$USER_HOME$/projects/4FI/src/LOC2/line-of-credit/modules/domain/src/test/java/com/ofg/loans/domain/model/payment/PaymentDistributionFixture.java" timestamp="1475829185644">
         <mark key="[" line="45" column="40" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_10" timestamp="1460729790668">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="0" column="837" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_45" timestamp="1472807166999">
-        <mark key="'" line="7" column="14" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.16.6/2d4bf466aacc3b9c4218d4ac0f63e4fd69fea5bf/lombok-1.16.6-sources.jar!/lombok/Setter.java" timestamp="1448448954640">
         <mark key="'" line="0" column="0" />
@@ -74,6 +67,13 @@
       </file>
       <file name="$USER_HOME$/projects/HFC/sombrero/src/sombrero-ssp/vario-proxy/src/main/java/cz/stigma/sombrero/catalog/etl/preloader/KatalogPreloader.java" timestamp="1508882612843">
         <mark key="'" line="74" column="5" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.txt" timestamp="1539945720186">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/4FI/src/LOC/line-of-credit/tests/test-mocks/src/main/java/com/ofg/loans/mocks/impl/MockBankStatementParser.java" timestamp="1447168226304">
         <mark key="[" line="20" column="23" />
@@ -117,7 +117,7 @@
         <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
       <register name="/" type="4">
-        <text>$</text>
+        <text>:g</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgQ2xpZW50V29ya2Zsb3dCdWlsZGVyIGNsaWVudFdvcmtmbG93QnVpbGRlcjsK</text>
@@ -151,9 +151,9 @@
       </register>
     </registers>
     <search>
-      <last-search>$</last-search>
+      <last-search>:g</last-search>
       <last-offset />
-      <last-pattern>$</last-pattern>
+      <last-pattern>:g</last-pattern>
       <last-replace>&quot;,</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -167,6 +167,7 @@
         <entry>void</entry>
         <entry>^</entry>
         <entry>$</entry>
+        <entry>:g</entry>
       </history-search>
       <history-cmd>
         <entry>%s/,/,\n/r</entry>
