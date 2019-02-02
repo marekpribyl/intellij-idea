@@ -40,6 +40,7 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="playground" type="PLAIN_TEXT" />
       <mapping pattern="subse_client_credential" type="PLAIN_TEXT" />
+      <mapping pattern="node" type="PLAIN_TEXT" />
       <mapping ext="off" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
