@@ -35,6 +35,7 @@
       <mapping pattern="out" type="PLAIN_TEXT" />
       <mapping pattern="MANIFEST" type="PLAIN_TEXT" />
       <mapping pattern=".empty" type="PLAIN_TEXT" />
+      <mapping pattern="03_sign_with_otp" type="PLAIN_TEXT" />
       <mapping pattern="TODO" type="PLAIN_TEXT" />
       <mapping pattern="crontab" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
