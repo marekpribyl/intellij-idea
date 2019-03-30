@@ -52,6 +52,7 @@
       <mapping ext="rc" type="PLAIN_TEXT" />
       <mapping ext="environment" type="PLAIN_TEXT" />
       <mapping ext="integrator" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="fi" type="PLAIN_TEXT" />
       <mapping ext="exec" type="PLAIN_TEXT" />
       <mapping ext="conf" type="Properties" />
