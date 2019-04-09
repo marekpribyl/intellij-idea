@@ -8,11 +8,11 @@
       <artifact name="JTOpen (DB2 iSeries)" use="true" />
       <option name="auto-sync" value="false" />
     </driver>
-    <driver id="derby.remote">
+    <driver id="derby.embedded">
       <artifact name="Apache Derby" use="true" />
       <option name="auto-sync" value="true" />
     </driver>
-    <driver id="derby.embedded">
+    <driver id="derby.remote">
       <artifact name="Apache Derby" use="true" />
       <option name="auto-sync" value="true" />
     </driver>
@@ -36,6 +36,10 @@
     </driver>
     <driver id="sybase.ase">
       <option name="auto-sync" value="false" />
+    </driver>
+    <driver id="mysql.8">
+      <artifact name="MySQL Connector/J 8" use="true" />
+      <option name="auto-sync" value="true" />
     </driver>
     <driver id="mysql">
       <artifact name="MySQL Connector/J" use="true" version="5.1.45" />
@@ -69,17 +73,22 @@
       <option name="auto-commit" value="false" />
     </driver>
     <driver id="postgresql">
-      <artifact name="PostgreSQL" use="true" version="42.2.2" />
+      <artifact name="PostgreSQL" use="true" version="42.2.5" />
       <option name="auto-sync" value="true" />
       <option name="schema-control" value="MANUAL" />
       <option name="auto-commit" value="true" />
       <option name="send-app-info" value="true" />
-      <code-style-scheme-name>Default</code-style-scheme-name>
+      <option name="format-sources-on-sync" value="true" />
+      <option name="source-loading" value="USER_SOURCES" />
     </driver>
     <driver id="redshift">
       <artifact name="Redshift" use="true" />
       <option name="auto-sync" value="true" />
       <option name="schema-control" value="MANUAL" />
+    </driver>
+    <driver id="hsqldb.local">
+      <artifact name="HSQLDB" use="true" />
+      <option name="auto-sync" value="true" />
     </driver>
     <driver id="hsqldb.remote">
       <artifact name="HSQLDB" use="true">
@@ -90,10 +99,6 @@
           <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/hsqldb-2.3.2.jar</url>
         </library>
       </artifact>
-      <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="hsqldb.local">
-      <artifact name="HSQLDB" use="true" />
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="h2.unified">
@@ -118,6 +123,23 @@
     <driver id="clickhouse">
       <artifact name="ClickHouse" use="true" />
       <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="cassandra">
+      <artifact name="Cassandra" use="true" />
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="vertica">
+      <artifact name="Vertica" use="true" />
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="hive">
+      <artifact name="Hive" use="true" />
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="greenplum">
+      <artifact name="PostgreSQL" use="true" />
+      <option name="auto-sync" value="true" />
+      <option name="schema-control" value="MANUAL" />
     </driver>
   </component>
 </application>
