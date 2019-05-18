@@ -37,6 +37,7 @@
       <mapping pattern="03_sign_with_otp" type="PLAIN_TEXT" />
       <mapping pattern="TODO" type="PLAIN_TEXT" />
       <mapping pattern="crontab" type="PLAIN_TEXT" />
+      <mapping pattern="process" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="playground" type="PLAIN_TEXT" />
       <mapping pattern="subse_client_credential" type="PLAIN_TEXT" />
