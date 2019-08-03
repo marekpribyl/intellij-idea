@@ -35,12 +35,12 @@
       <mapping pattern="transformations" type="PLAIN_TEXT" />
       <mapping pattern="subse_client_credential" type="PLAIN_TEXT" />
       <mapping pattern="node" type="PLAIN_TEXT" />
-      <mapping pattern="playground" type="PLAIN_TEXT" />
       <mapping pattern="all" type="PLAIN_TEXT" />
       <mapping pattern="notification_response" type="PLAIN_TEXT" />
       <mapping pattern=".getkeep" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="PhoneNumberAlternateFormatsProto_7" type="PLAIN_TEXT" />
+      <mapping pattern="playground" type="PLAIN_TEXT" />
       <mapping pattern="process" type="PLAIN_TEXT" />
       <mapping pattern="services" type="PLAIN_TEXT" />
       <mapping pattern="crontab" type="PLAIN_TEXT" />
@@ -58,8 +58,8 @@
       <mapping ext="environment" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="fi" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <mapping ext="conf" type="Properties" />
       <mapping pattern="V7__TRELLO-984_discount_by_categories" type="SQL" />
