@@ -10,57 +10,68 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
-      <mapping pattern="delete_deprecated_client_events" type="Groovy" />
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="02_200_get_offer" type="Groovy" />
+      <mapping pattern="delete_deprecated_client_events" type="Groovy" />
       <mapping pattern="Template Email - sandbox" type="HTML" />
       <mapping pattern="Template Email test" type="HTML" />
       <mapping pattern="csw-b2c-cz" type="JSON" />
-      <mapping ext="notification" type="JSON" />
       <mapping ext="email" type="JSON" />
+      <mapping ext="notification" type="JSON" />
       <mapping ext="cms_email" type="JSON" />
       <mapping ext="cms_notification" type="JSON" />
-      <mapping pattern="V6__TRELLO-844_heureka_sk.sql" type="PLAIN_TEXT" />
-      <mapping pattern="notification_response" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping pattern=".attach_pid19644" type="PLAIN_TEXT" />
-      <mapping pattern="NOTES" type="PLAIN_TEXT" />
-      <mapping pattern="all" type="PLAIN_TEXT" />
-      <mapping pattern="README" type="PLAIN_TEXT" />
-      <mapping pattern="transformations" type="PLAIN_TEXT" />
-      <mapping pattern=".getkeep" type="PLAIN_TEXT" />
-      <mapping pattern="PhoneNumberAlternateFormatsProto_7" type="PLAIN_TEXT" />
-      <mapping pattern="services" type="PLAIN_TEXT" />
-      <mapping pattern="transformations_incremental" type="PLAIN_TEXT" />
-      <mapping pattern="out" type="PLAIN_TEXT" />
-      <mapping pattern="MANIFEST" type="PLAIN_TEXT" />
       <mapping pattern=".empty" type="PLAIN_TEXT" />
-      <mapping pattern="03_sign_with_otp" type="PLAIN_TEXT" />
+      <mapping pattern="NOTES" type="PLAIN_TEXT" />
+      <mapping pattern=".attach_pid19644" type="PLAIN_TEXT" />
+      <mapping pattern="MANIFEST" type="PLAIN_TEXT" />
       <mapping pattern="TODO" type="PLAIN_TEXT" />
-      <mapping pattern="crontab" type="PLAIN_TEXT" />
-      <mapping pattern="process" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="playground" type="PLAIN_TEXT" />
+      <mapping pattern="out" type="PLAIN_TEXT" />
+      <mapping pattern="transformations_incremental" type="PLAIN_TEXT" />
+      <mapping pattern="03_sign_with_otp" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="V6__TRELLO-844_heureka_sk.sql" type="PLAIN_TEXT" />
+      <mapping pattern="transformations" type="PLAIN_TEXT" />
       <mapping pattern="subse_client_credential" type="PLAIN_TEXT" />
       <mapping pattern="node" type="PLAIN_TEXT" />
+      <mapping pattern="playground" type="PLAIN_TEXT" />
+      <mapping pattern="all" type="PLAIN_TEXT" />
+      <mapping pattern="notification_response" type="PLAIN_TEXT" />
+      <mapping pattern=".getkeep" type="PLAIN_TEXT" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping pattern="PhoneNumberAlternateFormatsProto_7" type="PLAIN_TEXT" />
+      <mapping pattern="process" type="PLAIN_TEXT" />
+      <mapping pattern="services" type="PLAIN_TEXT" />
+      <mapping pattern="crontab" type="PLAIN_TEXT" />
       <mapping ext="off" type="PLAIN_TEXT" />
-      <mapping ext="j2" type="PLAIN_TEXT" />
-      <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="sample" type="PLAIN_TEXT" />
-      <mapping ext="lock" type="PLAIN_TEXT" />
-      <mapping ext="ser" type="PLAIN_TEXT" />
-      <mapping ext="cms_sms" type="PLAIN_TEXT" />
-      <mapping ext="rc" type="PLAIN_TEXT" />
-      <mapping ext="environment" type="PLAIN_TEXT" />
       <mapping ext="repo" type="PLAIN_TEXT" />
       <mapping ext="integrator" type="PLAIN_TEXT" />
+      <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
-      <mapping ext="fi" type="PLAIN_TEXT" />
+      <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="exec" type="PLAIN_TEXT" />
+      <mapping ext="rc" type="PLAIN_TEXT" />
+      <mapping ext="ser" type="PLAIN_TEXT" />
+      <mapping ext="cms_sms" type="PLAIN_TEXT" />
+      <mapping ext="environment" type="PLAIN_TEXT" />
+      <mapping ext="j2" type="PLAIN_TEXT" />
+      <mapping ext="fi" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <mapping ext="conf" type="Properties" />
       <mapping pattern="V7__TRELLO-984_discount_by_categories" type="SQL" />
       <mapping ext=" sql" type="SQL" />
-      <mapping pattern="temp" type="XML" />
       <mapping pattern="kategorie" type="XML" />
+      <mapping pattern="temp" type="XML" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
     </extensionMap>
   </component>
 </application>
