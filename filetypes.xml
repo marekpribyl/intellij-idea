@@ -28,6 +28,7 @@
       <mapping pattern="TODO" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="out" type="PLAIN_TEXT" />
+      <mapping pattern="crontab" type="PLAIN_TEXT" />
       <mapping pattern="transformations_incremental" type="PLAIN_TEXT" />
       <mapping pattern="03_sign_with_otp" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
@@ -35,15 +36,14 @@
       <mapping pattern="transformations" type="PLAIN_TEXT" />
       <mapping pattern="subse_client_credential" type="PLAIN_TEXT" />
       <mapping pattern="node" type="PLAIN_TEXT" />
+      <mapping pattern="playground" type="PLAIN_TEXT" />
       <mapping pattern="all" type="PLAIN_TEXT" />
       <mapping pattern="notification_response" type="PLAIN_TEXT" />
       <mapping pattern=".getkeep" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="PhoneNumberAlternateFormatsProto_7" type="PLAIN_TEXT" />
-      <mapping pattern="playground" type="PLAIN_TEXT" />
       <mapping pattern="process" type="PLAIN_TEXT" />
       <mapping pattern="services" type="PLAIN_TEXT" />
-      <mapping pattern="crontab" type="PLAIN_TEXT" />
       <mapping ext="off" type="PLAIN_TEXT" />
       <mapping ext="sample" type="PLAIN_TEXT" />
       <mapping ext="repo" type="PLAIN_TEXT" />
